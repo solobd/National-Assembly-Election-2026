@@ -4,7 +4,7 @@
 
 ## 🚀 লাইভ ডেমো
 
-[https://solobd.github.io/National-Assembly-Election-2026/]
+https://solobd.github.io/National-Assembly-Election-2026/
 
 ## ✨ বৈশিষ্ট্যসমূহ (Features)
 
@@ -29,8 +29,7 @@
 
 1.  এই রিপোজিটরিটি আপনার কম্পিউটারে ক্লোন বা ডাউনলোড করুন।
     ```bash
-    git clone [https://github.com/solobd/National-Assembly-Election-2026.git](https://github.com/solobd/National-Assembly-Election-2026.git)
-    ```
+    git clone https://github.com/solobd/National-Assembly-Election-2026.git```
 2.  ডাউনলোড করা ফোল্ডারে প্রবেশ করুন এবং `index.html` ফাইলটি যেকোনো ওয়েব ব্রাউজারে খুলুন।
 
 ## 🤝 কিভাবে অবদান রাখবেন (How to Contribute)
