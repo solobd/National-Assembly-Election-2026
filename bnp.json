@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "১.",
+    "division": "রংপুর",
+    "district": "পঞ্চগড়",
+    "constituency_name": "পঞ্চগড়-১",
+    "constituency_area": "(ক) পঞ্চগড় সদর উপজেলা, (খ) তেতুললয়া উপজেলা এবং (গ) আটোয়ারী উপজেলা",
+    "candidate_name": "ব্যারিস্টার মোহাম্মদ নওশাদ জমির"
+  },
+  {
+    "id": "২.",
+    "division": "রংপুর",
+    "district": "পঞ্চগড়",
+    "constituency_name": "পঞ্চগড় - ২",
+    "constituency_area": "(ক) বোদা উপজেলার ইউনিয়িসমূহ (খ) বোদা পৌরসভা এবং (গ) দেবীগঞ্জ উপজেলা",
+    "candidate_name": "ফরহাদ হোসেন আজাদ"
+  },
+  {
+    "id": "৩.",
+    "division": "রংপুর",
+    "district": "ঠাকুরগাঁও",
+    "constituency_name": "ঠাকুরগাঁও - ১",
+    "constituency_area": "ঠাকুরগাঁও সদর উপজেলা",
+    "candidate_name": "মির্জা ফখরুল ইসলাম আলমগীর"
+  },
+  {
+    "id": "৪.",
+    "division": "রংপুর",
+    "district": "ঠাকুরগাঁও",
+    "constituency_name": "ঠাকুরগাঁও-২",
+    "constituency_area": "(ক) বালিয়াডাংগী উপজেলা, (খ) হরিপুর উপজেলা এবং (গ) রাণীশংকৈল উপজেলার নিম্নলিখিত ইউনিয়নসমূহ:- (১) ধর্মগড় ও (২) কাশিপুর",
+    "candidate_name": ""
+  },
+  {
+    "id": "৫.",
+    "division": "রংপুর",
+    "district": "ঠাকুরগাঁও",
+    "constituency_name": "ঠাকুরগাঁও - ৩",
+    "constituency_area": "(ক) পীরগঞ্জ উপজেলা এবং (খ) নিম্নলিখিত ইউনিয়নসমূহ ব্যতীত রাণীশংকৈল উপজেলা:- (১) ধর্মগড় ও (২) কাশিপুর",
+    "candidate_name": "মোঃ জাহিদুর রহমান জাহিদ"
+  },
+  {
+    "id": "৬.",
+    "division": "রংপুর",
+    "district": "দিনাজপুর",
+    "constituency_name": "দিনাজপুর-১",
+    "constituency_area": "(ক) বীরগঞ্জ উপজেলা এবং (খ) বিরল উপজেলা",
+    "candidate_name": "মোঃ মনজুরুল ইসলাম"
+  },
+  {
+    "id": "৭.",
+    "division": "রংপুর",
+    "district": "দিনাজপুর",
+    "constituency_name": "দিনাজপুর-২",
+    "constituency_area": "(ক) বোচাগঞ্জ উপজেলা এবং (খ) বিরল উপজেলা",
+    "candidate_name": "মোঃ সাদিক রিয়াজ"
+  },
+  {
+    "id": "৮.",
+    "division": "রংপুর",
+    "district": "দিনাজপুর",
+    "constituency_name": "দিনাজপুর - ৩",
+    "constituency_area": "(ক) দিনাজপুর সদর উপজেলা",
+    "candidate_name": "বেগম খালেদা জিয়া"
+  },
+  {
+    "id": "৯.",
+    "division": "রংপুর",
+    "district": "দিনাজপুর",
+    "constituency_name": "দিনাজপুর-৪",
+    "constituency_area": "(ক) খানসামা উপজেলা এবং (খ) চিরিরবন্দর উপজেলা",
+    "candidate_name": "মোঃ আক্তারুজ্জামান মিয়া"
+  },
+  {
+    "id": "১০.",
+    "division": "রংপুর",
+    "district": "দিনাজপুর",
+    "constituency_name": "দিনাজপুর - ৫",
+    "constituency_area": "(ক) পার্বতীপুর উপজেলা এবং (খ) ফুলবাড়ি উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "১১.",
+    "division": "রংপুর",
+    "district": "দিনাজপুর",
+    "constituency_name": "দিনাজপুর-৬",
+    "constituency_area": "(ক) নবাবগঞ্জ উপজেলা (খ) বিরামপুর উপজেলা (গ) হাকিমপুর উপজেলা এবং (ঘ) ঘোড়াঘাট উপজেলা",
+    "candidate_name": "অধ্যাপক এ জেড এম জাহিদ হোসেন"
+  },
+  {
+    "id": "১২.",
+    "division": "রংপুর",
+    "district": "নীলফামারী",
+    "constituency_name": "নীলফামারী -১",
+    "constituency_area": "(ক) ডোমার উপজেলা (খ) ডিমলা উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "১৩.",
+    "division": "রংপুর",
+    "district": "নীলফামারী",
+    "constituency_name": "নীলফামারী-২",
+    "constituency_area": "(ক) নীলফামারী সদর উপজেলা",
+    "candidate_name": "এ এইচ মোঃ সাইফুল্লাহ রুবেল"
+  },
+  {
+    "id": "১৪.",
+    "division": "রংপুর",
+    "district": "নীলফামারী",
+    "constituency_name": "নীলফামারী-৩",
+    "constituency_area": "(ক) জলঢাকা উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "১৫.",
+    "division": "রংপুর",
+    "district": "নীলফামারী",
+    "constituency_name": "নীলফামারী-৪",
+    "constituency_area": "(ক) সৈয়দপুর উপজেলা এবং (খ) কিশোরগঞ্জ উপজেলা",
+    "candidate_name": "মোঃ আব্দুল গফুর সরকার"
+  },
+  {
+    "id": "১৬.",
+    "division": "রংপুর",
+    "district": "লালমনিরহাট",
+    "constituency_name": "লালমনিরহাট - ১",
+    "constituency_area": "(ক) পাটগ্রাম উপজেলা এবং (খ) হাতীবান্ধা উপজেলা",
+    "candidate_name": "মোঃ হাসান রাজিব প্রধান"
+  },
+  {
+    "id": "১৭.",
+    "division": "রংপুর",
+    "district": "লালমনিরহাট",
+    "constituency_name": "লালমনিরহাট- ২",
+    "constituency_area": "(ক) কালীগঞ্জ উপজেলা এবং (খ) আদিতমারী উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "১৮.",
+    "division": "রংপুর",
+    "district": "লালমনিরহাট",
+    "constituency_name": "লালমনিরহাট -৩",
+    "constituency_area": "লালমনিরহাট সদর উপজেলা",
+    "candidate_name": "আসাদুল হাবিব দুলু"
+  },
+  {
+    "id": "১৯.",
+    "division": "রংপুর",
+    "district": "রংপুর",
+    "constituency_name": "রংপুর - ১",
+    "constituency_area": "(ক) গংগাচড়া উপজেলা (খ) রংপুর সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ১,২,৩,৪,৫,৬,৭,৮,৯",
+    "candidate_name": ""
+  },
+  {
+    "id": "২০.",
+    "division": "রংপুর",
+    "district": "রংপুর",
+    "constituency_name": "রংপুর-২",
+    "constituency_area": "(ক) তারাগঞ্জ উপজেলা এবং (খ) বদরগঞ্জ উপজেলা",
+    "candidate_name": "মোহাম্মদ আলী সরকার"
+  },
+  {
+    "id": "২১.",
+    "division": "রংপুর",
+    "district": "রংপুর",
+    "constituency_name": "রংপুর-৩",
+    "constituency_area": "(ক) রংপুর সদর উপজেলা (খ) রংপুর সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ১,২,৩,৪,৫,৬,৭,৮,৯ ব্যতীত রংপুর সিটি কর্পোরেশন এবং (গ) রংপুর সেনানিবাস এলাকা",
+    "candidate_name": "মোঃ সামসুজ্জামান সামু"
+  },
+  {
+    "id": "২২.",
+    "division": "রংপুর",
+    "district": "রংপুর",
+    "constituency_name": "রংপুর -৪",
+    "constituency_area": "(ক) পীরগাছা উপজেলা এবং (খ) কাউনিয়া উপজেলা",
+    "candidate_name": "মোহাম্মদ এমদাদুল হক ভরসা"
+  },
+  {
+    "id": "২৩.",
+    "division": "রংপুর",
+    "district": "রংপুর",
+    "constituency_name": "রংপুর-৫",
+    "constituency_area": "মিঠাপুকুর উপজেলা",
+    "candidate_name": "মোঃ গোলাম রব্বানী"
+  },
+  {
+    "id": "২৪.",
+    "division": "রংপুর",
+    "district": "রংপুর",
+    "constituency_name": "রংপুর-৬",
+    "constituency_area": "পীরগঞ্জ উপজেলা",
+    "candidate_name": "মোঃ সাইফুল ইসলাম"
+  },
+  {
+    "id": "২৫.",
+    "division": "রংপুর",
+    "district": "কুড়িগ্রাম",
+    "constituency_name": "কুড়িগ্রাম-১",
+    "constituency_area": "(ক) ভুরাঙ্গামারী উপজেলা এবং (খ) নাগেশ্বরী উপজেলা",
+    "candidate_name": "সাইফুল ইসলাম রানা"
+  },
+  {
+    "id": "২৬.",
+    "division": "রংপুর",
+    "district": "কুড়িগ্রাম",
+    "constituency_name": "কুড়িগ্রাম - ২",
+    "constituency_area": "(ক) কুড়িগ্রাম সদর উপজেলা (খ) রাজারহাট উপজেলা এবং (গ) ফুলবাড়ি উপজেলা",
+    "candidate_name": "মোঃ সোহেল হোসেন কায়কোবাদ"
+  },
+  {
+    "id": "২৭.",
+    "division": "রংপুর",
+    "district": "কুড়িগ্রাম",
+    "constituency_name": "কুড়িগ্রাম-৩",
+    "constituency_area": "উলিপুর উপজেলা",
+    "candidate_name": "তাজভীর উল ইসলাম"
+  },
+  {
+    "id": "২৮.",
+    "division": "রংপুর",
+    "district": "কুড়িগ্রাম",
+    "constituency_name": "কুড়িগ্রাম-৪",
+    "constituency_area": "(ক) রৌমারী উপজেলা (খ) রাজিবপুর উপজেলা এবং (গ) চিলমারী উপজেলা",
+    "candidate_name": "মোঃ আজিজুর রহমান"
+  },
+  {
+    "id": "২৯.",
+    "division": "রংপুর",
+    "district": "গাইবান্ধা",
+    "constituency_name": "গাইবান্ধা-১",
+    "constituency_area": "সুন্দরগঞ্জ উপজেলা",
+    "candidate_name": "খন্দকার জিয়াউল ইসলাম মোহাম্মদ আলী"
+  },
+  {
+    "id": "৩০.",
+    "division": "রংপুর",
+    "district": "গাইবান্ধা",
+    "constituency_name": "গাইবান্ধা-২",
+    "constituency_area": "গাইবান্ধা সদর উপজেলা",
+    "candidate_name": "মোঃ আনিসুজ্জামান খান বাবু"
+  },
+  {
+    "id": "৩১.",
+    "division": "রংপুর",
+    "district": "গাইবান্ধা",
+    "constituency_name": "গাইবান্ধা-৩",
+    "constituency_area": "(ক) সাদুল্যাপুর উপজেলা এবং (খ) পলাশবাড়ি উপজেলা",
+    "candidate_name": "অধ্যাপক ডাঃ সৈয়দ মইনুল হাসান সাদিক"
+  },
+  {
+    "id": "৩২.",
+    "division": "রংপুর",
+    "district": "গাইবান্ধা",
+    "constituency_name": "গাইবান্ধা -৪",
+    "constituency_area": "গোবিন্দগঞ্জ উপজেলা",
+    "candidate_name": "মোহাম্মদ শামীম কায়সার"
+  },
+  {
+    "id": "৩৩.",
+    "division": "রংপুর",
+    "district": "গাইবান্ধা",
+    "constituency_name": "গাইবান্ধা-৫",
+    "constituency_area": "(ক) ফুলছড়ি উপজেলা এবং (খ) সাঘাটা উপজেলা",
+    "candidate_name": "মোঃ ফারুক আলম সরকার"
+  },
+  {
+    "id": "৩৪.",
+    "division": "রাজশাহী",
+    "district": "জয়পুরহাট",
+    "constituency_name": "জয়পুরহাট-১",
+    "constituency_area": "(ক) জয়পুরহাট সদর উপজেলা এবং (খ) পাঁচবিবি উপজেলা",
+    "candidate_name": "মোঃ মাসুদ রানা প্রধান"
+  },
+  {
+    "id": "৩৫.",
+    "division": "রাজশাহী",
+    "district": "জয়পুরহাট",
+    "constituency_name": "জয়পুরহাট-২",
+    "constituency_area": "(ক) আক্কেলপুর উপজেরা (খ) ক্ষেতলাল উপজেলা এবং (গ) কালাই উপজেলা",
+    "candidate_name": "আব্দুল বারী"
+  },
+  {
+    "id": "৩৬.",
+    "division": "রাজশাহী",
+    "district": "বগুড়া",
+    "constituency_name": "বগুড়া-১",
+    "constituency_area": "(ক) সারিয়াকান্দি উপজেলা এবং (খ) সোনাতলা উপজেলা",
+    "candidate_name": "কাজী রফিকুল ইসলাম"
+  },
+  {
+    "id": "৩৭.",
+    "division": "রাজশাহী",
+    "district": "বগুড়া",
+    "constituency_name": "বগুড়া-২",
+    "constituency_area": "শিবগঞ্জ উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "৩৮.",
+    "division": "রাজশাহী",
+    "district": "বগুড়া",
+    "constituency_name": "বগুড়া-৩",
+    "constituency_area": "(ক) আদমদীঘি উপজেলা এবং (খ) দুপচাঁচিয়া উপজেলা",
+    "candidate_name": "আব্দুল মুহিত তালুকদার"
+  },
+  {
+    "id": "৩৯.",
+    "division": "রাজশাহী",
+    "district": "বগুড়া",
+    "constituency_name": "বগুড়া-৪",
+    "constituency_area": "(ক) কাহালু উপজেলা এবং (খ) নন্দীগ্রাম উপজেলা",
+    "candidate_name": "মোঃ মোশারফ হোসেন"
+  },
+  {
+    "id": "৪০.",
+    "division": "রাজশাহী",
+    "district": "বগুড়া",
+    "constituency_name": "বগুড়া-৫",
+    "constituency_area": "(ক) শেরপুর উপজেলা এবং (খ) ধুনট উপজেলা",
+    "candidate_name": "গোলাম মোহাম্মদ সিরাজ"
+  },
+  {
+    "id": "৪১.",
+    "division": "রাজশাহী",
+    "district": "বগুড়া",
+    "constituency_name": "বগুড়া-৬",
+    "constituency_area": "বগুড়া সদর উপজেলা",
+    "candidate_name": "তারেক রহমান"
+  },
+  {
+    "id": "৪২.",
+    "division": "রাজশাহী",
+    "district": "বগুড়া",
+    "constituency_name": "বগুড়া-৭",
+    "constituency_area": "(ক) গাবতলী উপজেলা (খ) শাজাহাপুর উপজেলা",
+    "candidate_name": "বেগম খালেদা জিয়া"
+  },
+  {
+    "id": "৪৩.",
+    "division": "রাজশাহী",
+    "district": "চাঁপাইনবাবগঞ্জ",
+    "constituency_name": "চাঁপাইনবাবগঞ্জ-১",
+    "constituency_area": "শিবগঞ্জ উপজেলা",
+    "candidate_name": "মোঃ সাজাহান মিয়া"
+  },
+  {
+    "id": "৪৪.",
+    "division": "রাজশাহী",
+    "district": "চাঁপাইনবাবগঞ্জ",
+    "constituency_name": "চাঁপাইনবাবগঞ্জ-২",
+    "constituency_area": "(ক) ভোলাহাট উপজেলা (খ) গোমস্তাপুর উপজেলা এবং (গ) নাচোল উপজেলা",
+    "candidate_name": "মোঃ আমিনুল ইসলাম"
+  },
+  {
+    "id": "৪৫.",
+    "division": "রাজশাহী",
+    "district": "চাঁপাইনবাবগঞ্জ",
+    "constituency_name": "চাঁপাইনবাবগঞ্জ -৩",
+    "constituency_area": "চাঁপাইনবাবগঞ্জ সদর উপজেলা",
+    "candidate_name": "মোঃ হারুনর রশিদ"
+  },
+  {
+    "id": "৪৬.",
+    "division": "রাজশাহী",
+    "district": "নওগাঁ",
+    "constituency_name": "নওগাঁ-১",
+    "constituency_area": "(ক) পোরশা উপজেলা (খ) সাপাহার উপজেলা এবং (গ) নিয়ামতপুর উপজেলা",
+    "candidate_name": "মোঃ মোস্তাফিজুর রহমান"
+  },
+  {
+    "id": "৪৭.",
+    "division": "রাজশাহী",
+    "district": "নওগাঁ",
+    "constituency_name": "নওগাঁ-২",
+    "constituency_area": "(ক) পত্নীতলা উপজেলা এবং (খ) ধামইরহাট উপজেলা",
+    "candidate_name": "মোঃ সামসুজোহা খান"
+  },
+  {
+    "id": "৪৮.",
+    "division": "রাজশাহী",
+    "district": "নওগাঁ",
+    "constituency_name": "নওগাঁ-৩",
+    "constituency_area": "(ক) বাদলগাছি উপজেলা এবং (খ) মহাদেবপুর উপজেলা",
+    "candidate_name": "মোঃ ফজলে হুদা বাবুল"
+  },
+  {
+    "id": "৪৯.",
+    "division": "রাজশাহী",
+    "district": "নওগাঁ",
+    "constituency_name": "নওগাঁ-৪",
+    "constituency_area": "মান্দা উপজেলা",
+    "candidate_name": "ইকরামুল বারী টিপু"
+  },
+  {
+    "id": "৫০.",
+    "division": "রাজশাহী",
+    "district": "নওগাঁ",
+    "constituency_name": "নওগাঁ-৫",
+    "constituency_area": "নওগাঁ সদর উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "৫১.",
+    "division": "রাজশাহী",
+    "district": "নওগাঁ",
+    "constituency_name": "নওগাঁ-৬",
+    "constituency_area": "(ক) রাণীনগর উপজেলা এবং (খ) আত্রাই উপজেলা",
+    "candidate_name": "শেখ মোঃ রেজাউল ইসলাম"
+  },
+  {
+    "id": "৫২.",
+    "division": "রাজশাহী",
+    "district": "রাজশাহী",
+    "constituency_name": "রাজশাহী -১",
+    "constituency_area": "(ক) গোদাগাড়ি উপজেলা এবং (খ) তানোর উপজেলা",
+    "candidate_name": "মোঃ শরীফ উদ্দীন"
+  },
+  {
+    "id": "৫৩.",
+    "division": "রাজশাহী",
+    "district": "রাজশাহী",
+    "constituency_name": "রাজশাহী -২",
+    "constituency_area": "রাজশাহী সিটি কর্পোরেশনভুক্ত এলাকা",
+    "candidate_name": "মোঃ মিজানুর রহমান মিনু"
+  },
+  {
+    "id": "৫৪.",
+    "division": "রাজশাহী",
+    "district": "রাজশাহী",
+    "constituency_name": "রাজশাহী -৩",
+    "constituency_area": "(ক) পবা উপজেলা এবং (খ) মোহনপুর উপজেলা",
+    "candidate_name": "মোহাম্মদ শফিকুল হক মিলন"
+  },
+  {
+    "id": "৫৫.",
+    "division": "রাজশাহী",
+    "district": "রাজশাহী",
+    "constituency_name": "রাজশাহী-৪",
+    "constituency_area": "বাগমারা উপজেলা",
+    "candidate_name": "ডি.এম.ডি. জিয়াউর রহমান"
+  },
+  {
+    "id": "৫৬.",
+    "division": "রাজশাহী",
+    "district": "রাজশাহী",
+    "constituency_name": "রাজশাহী -৫",
+    "constituency_area": "(ক) দূর্গাপুর উপজেলা এবং (খ) পুঠিয়া উপজেলা",
+    "candidate_name": "অধ্যাপক নজরুল ইসলাম"
+  },
+  {
+    "id": "৫৭.",
+    "division": "রাজশাহী",
+    "district": "রাজশাহী",
+    "constituency_name": "রাজশাহী-৬",
+    "constituency_area": "(ক) চারঘাট উপজেলা এবং (খ) বাঘা উপজেলা",
+    "candidate_name": "আবু সাঈদ চাঁদ"
+  },
+  {
+    "id": "৫৮.",
+    "division": "রাজশাহী",
+    "district": "নাটোর",
+    "constituency_name": "নাটোর-১",
+    "constituency_area": "(ক) লালপুর উপজেলা এবং (খ) বাগাতিপাড়া উপজেলা",
+    "candidate_name": "ফারজানা শারমিন"
+  },
+  {
+    "id": "৫৯.",
+    "division": "রাজশাহী",
+    "district": "নাটোর",
+    "constituency_name": "নাটোর-২",
+    "constituency_area": "(ক) নাটোর সদর উপজেলা এবং (খ) নলডাঙ্গা উপজেলা",
+    "candidate_name": "রুহুল কুদ্দুস তালুকদার দুলু"
+  },
+  {
+    "id": "৬০.",
+    "division": "রাজশাহী",
+    "district": "নাটোর",
+    "constituency_name": "নাটোর-৩",
+    "constituency_area": "সিংড়া উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "৬১.",
+    "division": "রাজশাহী",
+    "district": "নাটোর",
+    "constituency_name": "নাটোর-৪",
+    "constituency_area": "(ক) গুরুদাসপুর উপজেলা এবং (খ) বড়াইগ্রাম উপজেলা",
+    "candidate_name": "মোঃ আব্দুল আজিজ"
+  },
+  {
+    "id": "৬২.",
+    "division": "রাজশাহী",
+    "district": "সিরাজগঞ্জ",
+    "constituency_name": "সিরাজগঞ্জ -১",
+    "constituency_area": "(ক) কাজিপুর উপজেলা এবং (খ) সিরাজগঞ্জ সদর উপজেলার নিম্নলিখিত ইউনিয়নসমূহ:- (১) মেছড়া (২) রতনকান্দি (৩) বাগবাটি ও (৪) ছোনগাছা ইউনিয়ন",
+    "candidate_name": ""
+  },
+  {
+    "id": "৬৩.",
+    "division": "রাজশাহী",
+    "district": "সিরাজগঞ্জ",
+    "constituency_name": "সিরাজগঞ্জ -২",
+    "constituency_area": "(ক) সিরাজগঞ্জ সদর উপজেলার নিম্নলিখিত ইউনিয়নসমূহ:- (১) বহুলী (২) শিয়ালকোল (৩) খোকশাবাড়ি (৪) কাওয়াকোলা (৫) কালিয়াহরিপুর ও (৬) সয়দাবাদ ইউনিয়ন (খ) সিরাজগঞ্জ পৌরসভা এবং (গ) কামারখন্দ উপজেলা",
+    "candidate_name": "ইকবাল হাসান মাহমুদ টুকু"
+  },
+  {
+    "id": "৬৪.",
+    "division": "রাজশাহী",
+    "district": "সিরাজগঞ্জ",
+    "constituency_name": "সিরাজগঞ্জ-৩",
+    "constituency_area": "(ক) রায়গঞ্জ উপজেলা এবং (খ) তাড়াশ উপজেলা",
+    "candidate_name": "ভিপি আয়নুল হক"
+  },
+  {
+    "id": "৬৫.",
+    "division": "রাজশাহী",
+    "district": "সিরাজগঞ্জ",
+    "constituency_name": "সিরাজগঞ্জ-৪",
+    "constituency_area": "উল্লাপাড়া উপজেলা",
+    "candidate_name": "এম আকবর আলী"
+  },
+  {
+    "id": "৬৬.",
+    "division": "রাজশাহী",
+    "district": "সিরাজগঞ্জ",
+    "constituency_name": "সিরাজগঞ্জ-৫",
+    "constituency_area": "(ক) বেলকুচি উপজেলা এবং (খ) চৌহালী উপজেলা",
+    "candidate_name": "মোঃ আমিরুল ইসলাম খান"
+  },
+  {
+    "id": "৬৭.",
+    "division": "রাজশাহী",
+    "district": "সিরাজগঞ্জ",
+    "constituency_name": "সিরাজগঞ্জ-৬",
+    "constituency_area": "শাহজাদপুর উপজেলা",
+    "candidate_name": "এম এ মুহিত"
+  },
+  {
+    "id": "৬৮.",
+    "division": "রাজশাহী",
+    "district": "পাবনা",
+    "constituency_name": "পাবনা -১",
+    "constituency_area": "সাঁথিয়া উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "৬৯.",
+    "division": "রাজশাহী",
+    "district": "পাবনা",
+    "constituency_name": "পাবনা-২",
+    "constituency_area": "(ক) সুজানগর উপজেলা (খ) বেড়া উপজেলা",
+    "candidate_name": "এ কে এম সেলিম রেজা হাবিব"
+  },
+  {
+    "id": "৭০.",
+    "division": "রাজশাহী",
+    "district": "পাবনা",
+    "constituency_name": "পাবনা-৩",
+    "constituency_area": "(ক) চাটমোহর উপজেলা (খ) ভাঙ্গুরা উপজেলা এবং (গ) ফরিদপুর উপজেলা",
+    "candidate_name": "মোঃ হাসান জাফির তুহিন"
+  },
+  {
+    "id": "৭১.",
+    "division": "রাজশাহী",
+    "district": "পাবনা",
+    "constituency_name": "পাবনা-৪",
+    "constituency_area": "(ক) আটঘরিয়া উপজেলা এবং (খ) ঈশ্বরদী উপজেলা",
+    "candidate_name": "হাবিবুর রহমান হাবিব"
+  },
+  {
+    "id": "৭২.",
+    "division": "রাজশাহী",
+    "district": "পাবনা",
+    "constituency_name": "পাবনা-৫",
+    "constituency_area": "পাবনা সদর উপজেলা",
+    "candidate_name": "মোঃ শামসুর রহমান শিমুল বিশ্বাস"
+  },
+  {
+    "id": "৭৩.",
+    "division": "খুলনা",
+    "district": "মেহেরপুর",
+    "constituency_name": "মেহেরপুর-১",
+    "constituency_area": "(ক) মেহেরপুর সদর উপজেলা এবং (খ) গাংনী উপজেলা",
+    "candidate_name": "মাসুদ অরুন"
+  },
+  {
+    "id": "৭৪.",
+    "division": "খুলনা",
+    "district": "মেহেরপুর",
+    "constituency_name": "মেহেরপুর-২",
+    "constituency_area": "গাংনী উপজেলা",
+    "candidate_name": "মোঃ আমজাদ হোসেন"
+  },
+  {
+    "id": "৭৫.",
+    "division": "খুলনা",
+    "district": "কুষ্টিয়া",
+    "constituency_name": "কুষ্টিয়া -১",
+    "constituency_area": "দৌলতপুর উপজেলা",
+    "candidate_name": "রেজা আহম্মেদ"
+  },
+  {
+    "id": "৭৬.",
+    "division": "খুলনা",
+    "district": "কুষ্টিয়া",
+    "constituency_name": "কুষ্টিয়া-২",
+    "constituency_area": "(ক) ভেড়ামারা উপজেলা এবং (খ) মিরপুর উপজেলা",
+    "candidate_name": "রাগীব রউফ চৌধুরী"
+  },
+  {
+    "id": "৭৭.",
+    "division": "খুলনা",
+    "district": "কুষ্টিয়া",
+    "constituency_name": "কুষ্টিয়া-৩",
+    "constituency_area": "কুষ্টিয়া সদর উপজেলা",
+    "candidate_name": "মোঃ জাকির হোসেন সরকার"
+  },
+  {
+    "id": "৭৮.",
+    "division": "খুলনা",
+    "district": "কুষ্টিয়া",
+    "constituency_name": "কুষ্টিয়া-৪",
+    "constituency_area": "(ক) কুমারখালী উপজেলা এবং (খ) খোকশা উপজেলা",
+    "candidate_name": "সৈয়দ মেহেদী আহমেদ রুমি"
+  },
+  {
+    "id": "৭৯.",
+    "division": "খুলনা",
+    "district": "চুয়াডাঙ্গা",
+    "constituency_name": "চুয়াডাঙ্গা-১",
+    "constituency_area": "(ক) আলমডাঙ্গা উপজেলা এবং (খ) নিম্নলিখিত ইউনিয়নসমূহ ব্যতীত চুয়াডাঙ্গা সদর উপজেলা:- (১) তিতুদহ (২) বেগমপুর (৩) নেহালপুর ও (৪) গড়াইটুপি",
+    "candidate_name": "মোঃ শরীফুজ্জামান"
+  },
+  {
+    "id": "৮০.",
+    "division": "খুলনা",
+    "district": "চুয়াডাঙ্গা",
+    "constituency_name": "চুয়াডাঙ্গা-২",
+    "constituency_area": "(ক) দামুড়হুদা উপজেলা (খ) জীবননগর উপজেলা এবং (গ) চুয়াডাঙ্গা সদর উপজেলার নিম্নলিখিত ইউনিয়নসমূহঃ (১) তিতুদহ (২) বেগমপুর (৩) নেহালপুর ও (৪) গড়াইটুপি",
+    "candidate_name": "মাহমুদ হাসান খান"
+  },
+  {
+    "id": "৮১.",
+    "division": "খুলনা",
+    "district": "ঝিনাইদহ",
+    "constituency_name": "ঝিনাইদহ-১",
+    "constituency_area": "শৈলকূপা উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "৮২.",
+    "division": "খুলনা",
+    "district": "ঝিনাইদহ",
+    "constituency_name": "ঝিনাইদহ-২",
+    "constituency_area": "(ক) নিম্নলিখিত ইউনিয়নসমূহ ব্যতীত ঝিনাইদহ সদর উপজেলা:- (১) নলডাঙ্গা (২) ঘোড়াশাল (৩) ফুরসুন্দি ও (৪) মহারাজপুর ইউনিয়ন এবং (খ) হরিণাকুন্ডু",
+    "candidate_name": ""
+  },
+  {
+    "id": "৮৩.",
+    "division": "খুলনা",
+    "district": "ঝিনাইদহ",
+    "constituency_name": "ঝিনাইদহ-৩",
+    "constituency_area": "(ক) কোর্টচাদপুর উপজেলা এবং (খ) মহেশপুর উপজেলা",
+    "candidate_name": "মোহাম্মদ মেহেদী হাসান"
+  },
+  {
+    "id": "৮৪.",
+    "division": "খুলনা",
+    "district": "ঝিনাইদহ",
+    "constituency_name": "ঝিনাইদহ-৪",
+    "constituency_area": "(ক) কালীগঞ্জ উপজেলা এবং (খ) ঝিনাইদহ সদর উপজেলা নিম্নলিখিত ইউনিয়নসমূহ: (১) নলডাঙ্গা (২) ঘোড়াশাল (৩) ফুরসুন্দি ও (৪) মহারাজপুর ইউনিয়ন",
+    "candidate_name": ""
+  },
+  {
+    "id": "৮৫.",
+    "division": "খুলনা",
+    "district": "যশোর",
+    "constituency_name": "যশোর-১",
+    "constituency_area": "শার্শা উপজেলা",
+    "candidate_name": "মোঃ মফিকুল হাসান তৃপ্তি"
+  },
+  {
+    "id": "৮৬.",
+    "division": "খুলনা",
+    "district": "যশোর",
+    "constituency_name": "যশোর-২",
+    "constituency_area": "(ক) চৌগাছা উপজেলা এবং (খ) ঝিকরগাছা উপজেলা",
+    "candidate_name": "মোছাঃ সাবিরা সুলতানা"
+  },
+  {
+    "id": "৮৭.",
+    "division": "খুলনা",
+    "district": "যশোর",
+    "constituency_name": "যশোর-৩",
+    "constituency_area": "বসুন্দিয়া ইউনিয়ন ব্যতীত যশোর সদর উপজেলা",
+    "candidate_name": "অনিন্দ্য ইসলাম অমিত"
+  },
+  {
+    "id": "৮৮.",
+    "division": "খুলনা",
+    "district": "যশোর",
+    "constituency_name": "যশোর-৪",
+    "constituency_area": "(ক) বাঘারপাড়া উপজেলা (খ) অভয়নগর উপজেলা এবং (গ) যশোর সদর উপজেলার বসুন্দিয়া ইউনিয়ন",
+    "candidate_name": "টি.এস. আইয়ুব"
+  },
+  {
+    "id": "৮৯.",
+    "division": "খুলনা",
+    "district": "যশোর",
+    "constituency_name": "যশোর-৫",
+    "constituency_area": "মনিরামপুর উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "৯০.",
+    "division": "খুলনা",
+    "district": "যশোর",
+    "constituency_name": "যশোর-৬",
+    "constituency_area": "কেশবপুর উপজেলা",
+    "candidate_name": "কাজী রওনকুল ইসলাম"
+  },
+  {
+    "id": "৯১.",
+    "division": "খুলনা",
+    "district": "মাগুরা",
+    "constituency_name": "মাগুরা-১",
+    "constituency_area": "(ক) শ্রীপুর উপজেলা এবং (খ) নিম্নলিখিত ইউনিয়নসমূহ ব্যতীত মাগুরা সদর উপজেলা:- (১) শত্রুজিংপুর (২) গোপালগ্রাম (৩) কুচিয়ামোড়া ও (৪) বেরইল পলিতা ইউনিয়ন",
+    "candidate_name": "মোঃ মনোয়ার হোসেন"
+  },
+  {
+    "id": "৯২.",
+    "division": "খুলনা",
+    "district": "মাগুরা",
+    "constituency_name": "মাগুরা-২",
+    "constituency_area": "(ক) মহম্মদপুর উপজেলা (খ) শালিখা উপজেলা এবং (গ) মাগুরা সদর উপজেলার নিম্নলিখিত ইউনিয়নসমূহ: (১) শত্রুজিংপুর (২) গোপালগ্রাম (৩) কুচিয়ামোড়া ও (৪) বেরইল পলিতা ইউনিয়ন",
+    "candidate_name": "নিতাই রায় চৌধুরী"
+  },
+  {
+    "id": "৯৩.",
+    "division": "খুলনা",
+    "district": "নড়াইল",
+    "constituency_name": "নড়াইল-১",
+    "constituency_area": "(ক) কালিয়া উপজেলা এবং (খ) নড়াইল সদর উপজেলার নিম্নলিখিত ইউনিয়নসমূহ: (১) কলোড়া (২) বিচালি (৩) ভদ্রবিলা (৪) সিঙ্গাশোলপুর ও (৫) শেখ হাটি ইউনিয়ন",
+    "candidate_name": "বিশ্বাস জাহাঙ্গীর আলম"
+  },
+  {
+    "id": "৯৪.",
+    "division": "খুলনা",
+    "district": "নড়াইল",
+    "constituency_name": "নড়াইল-২",
+    "constituency_area": "ক) লোহাগড়া উপজেলা এবং (খ) নিম্নলিখিত ইউনিয়নসমূহ ব্যতীত নড়াইল সদর উপজেলা: (১) কলোড়া (২) বিচালি (৩) ভদ্রবিলা (৪) সিঙ্গাশোলপুর ও (৫) শেখ হাটি ইউনিয়ন",
+    "candidate_name": ""
+  },
+  {
+    "id": "৯৫.",
+    "division": "খুলনা",
+    "district": "বাগেরহাট",
+    "constituency_name": "বাগেরহাট-১",
+    "constituency_area": "(ক) বাগেরহাট সদর উপজেলা (খ) মোল্লাহাট উপজেলা এবং (গ) চিতলমারী উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "৯৬.",
+    "division": "খুলনা",
+    "district": "বাগেরহাট",
+    "constituency_name": "বাগেরহাট-২",
+    "constituency_area": "(ক) ফকিরহাট উপজেলা (খ) রামপাল উপজেলা এবং (গ) চিতলমারী উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "৯৭.",
+    "division": "খুলনা",
+    "district": "বাগেরহাট",
+    "constituency_name": "বাগেরহাট-৩",
+    "constituency_area": "(ক) কচুয়া উপজেলা (খ) মোড়েলগঞ্জ উপজেলা (গ) শরণখোলা উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "৯৮.",
+    "division": "খুলনা",
+    "district": "খুলনা",
+    "constituency_name": "খুলনা-১",
+    "constituency_area": "(ক) বটিয়াঘাটা উপজেলা এবং (খ) দাকোপ উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "৯৯.",
+    "division": "খুলনা",
+    "district": "খুলনা",
+    "constituency_name": "খুলনা -২",
+    "constituency_area": "খুলনা সিটি কর্পোরেশনের ওয়ার্ড নম্বর-১৬, ১৭,১৮,১৯,২০,২১, ২২, ২৩,২৪,২৫,২৬,২৭,২৮,২৯,৩০ এবং ৩১",
+    "candidate_name": "নজরুল ইসলাম মঞ্জু"
+  },
+  {
+    "id": "১০০.",
+    "division": "খুলনা",
+    "district": "খুলনা",
+    "constituency_name": "খুলনা-৩",
+    "constituency_area": "(ক) খুলনা সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ১,২,৩,৪,৫,৬,৭,৮,৯, ১০,১১,১২,১৩,১৪ এবং ১৫ (খ) দিঘালিয়া উপজেলার আড়ংঘাটা যোগীপোল ইউনিয়ন",
+    "candidate_name": "রকিবুল ইসলাম বকুল"
+  },
+  {
+    "id": "১০১.",
+    "division": "খুলনা",
+    "district": "খুলনা",
+    "constituency_name": "খুলনা-৪",
+    "constituency_area": "(ক) আড়ংঘাটা ও যোগীপোল ইউনিয়ন ব্যতীত দিঘলিয়া উপজেলা (খ) রূপসা উপজেলা এবং (গ) তেরখাদা উপজেলা",
+    "candidate_name": "আজিজুল বারী হেলাল"
+  },
+  {
+    "id": "১০২.",
+    "division": "খুলনা",
+    "district": "খুলনা",
+    "constituency_name": "খুলনা-৫",
+    "constituency_area": "(ক) ফুলতলা উপজেলা (খ) ডুমুরিয়া উপজেলা এবং (গ) গিলাতলা ক্যান্টনমেন্ট এলাকা",
+    "candidate_name": "মোহাম্মদ আলী আসগর"
+  },
+  {
+    "id": "১০৩.",
+    "division": "খুলনা",
+    "district": "খুলনা",
+    "constituency_name": "খুলনা-৬",
+    "constituency_area": "(ক) কয়রা উপজেলা এবং (খ) পাইকগাছা উপজেলা",
+    "candidate_name": "মনিরুল হাসান বাপ্পী"
+  },
+  {
+    "id": "১০৪.",
+    "division": "খুলনা",
+    "district": "সাতক্ষীরা",
+    "constituency_name": "সাতক্ষীরা -১",
+    "constituency_area": "(ক) কলারোয়া উপজেলা এবং (খ) তালা উপজেলা",
+    "candidate_name": "মোঃ হাবিবুল ইসলাম হাবিব"
+  },
+  {
+    "id": "১০৫.",
+    "division": "খুলনা",
+    "district": "সাতক্ষীরা",
+    "constituency_name": "সাতক্ষীরা-২",
+    "constituency_area": "(ক) সাতক্ষীরা সদর উপজেলা এবং (খ) দেবহাটা উপজেলা",
+    "candidate_name": "আব্দুর রউফ"
+  },
+  {
+    "id": "১০৬.",
+    "division": "খুলনা",
+    "district": "সাতক্ষীরা",
+    "constituency_name": "সাতক্ষীরা-৩",
+    "constituency_area": "(ক) কালিগঞ্জ উপজেলা এবং (খ) আশাশুনি উপজেলা",
+    "candidate_name": "কাজী আলাউদ্দীন"
+  },
+  {
+    "id": "১০৭.",
+    "division": "খুলনা",
+    "district": "সাতক্ষীরা",
+    "constituency_name": "সাতক্ষীরা-৪",
+    "constituency_area": "শ্যামনগর উপজেলা",
+    "candidate_name": "মোঃ মনিরুজ্জামান"
+  },
+  {
+    "id": "১০৮.",
+    "division": "বরিশাল",
+    "district": "বরগুনা",
+    "constituency_name": "বরগুনা-১",
+    "constituency_area": "(ক) বরগুনা সদর উপজেলা (খ) আমতলী উপজেলা এবং (গ) তালতলি উপজেলা",
+    "candidate_name": "মোঃ নজরুল ইসলাম মোল্লা"
+  },
+  {
+    "id": "১০৯.",
+    "division": "বরিশাল",
+    "district": "বরগুনা",
+    "constituency_name": "বরগুনা-২",
+    "constituency_area": "(ক) বামনা উপজেলা (খ) পাথরঘাটা উপজেলা এবং (গ) বেতাগী উপজেলা",
+    "candidate_name": "নুরুল ইসলাম মনি"
+  },
+  {
+    "id": "১১০.",
+    "division": "বরিশাল",
+    "district": "পটুয়াখালী",
+    "constituency_name": "পটুয়াখালী - ১",
+    "constituency_area": "(ক) পটুয়াখালী সদর উপজেলা (খ) মির্জাগঞ্জ উপজেলা এবং (গ) দুমকি উপজেলা",
+    "candidate_name": "এয়ার ভাইস মার্শাল (অবঃ) আলতাফ হোসেন চৌধুরী"
+  },
+  {
+    "id": "১১১.",
+    "division": "বরিশাল",
+    "district": "পটুয়াখালী",
+    "constituency_name": "পটুয়াখালী- ২",
+    "constituency_area": "বাউফল উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "১১২.",
+    "division": "বরিশাল",
+    "district": "পটুয়াখালী",
+    "constituency_name": "পটুয়াখালী - ৩",
+    "constituency_area": "(ক) দশমিনা উপজেলা এবং (খ) গলাচিপা",
+    "candidate_name": ""
+  },
+  {
+    "id": "১১৩.",
+    "division": "বরিশাল",
+    "district": "পটুয়াখালী",
+    "constituency_name": "পটুয়াখালী - ৪",
+    "constituency_area": "(ক) কলাপাড়া উপজেলা এবং (খ) রাঙ্গাবালী উপজেলা",
+    "candidate_name": "এ বি এম মোশাররফ হোসেন"
+  },
+  {
+    "id": "১১৪.",
+    "division": "বরিশাল",
+    "district": "ভোলা",
+    "constituency_name": "ভোলা- ১",
+    "constituency_area": "ভোলা সদর উপজেলা",
+    "candidate_name": "গোলাম নবী আলমগীর"
+  },
+  {
+    "id": "১১৫.",
+    "division": "বরিশাল",
+    "district": "ভোলা",
+    "constituency_name": "ভোলা - ২",
+    "constituency_area": "(ক) দৌলতখান উপজেলা এবং (খ) বোরহানউদ্দিন উপজেলা",
+    "candidate_name": "মোঃ হাফিজ ইব্রাহীম"
+  },
+  {
+    "id": "১১৬.",
+    "division": "বরিশাল",
+    "district": "ভোলা",
+    "constituency_name": "ভোলা- ৩",
+    "constituency_area": "(ক) তজুমদ্দিন উপজেলা এবং (খ) লালমোহন উপজেলা",
+    "candidate_name": "মেজর (অবঃ) হাফিজ উদ্দিন আহমেদ বীর বীক্রম"
+  },
+  {
+    "id": "১১৭.",
+    "division": "বরিশাল",
+    "district": "ভোলা",
+    "constituency_name": "ভোলা - ৪",
+    "constituency_area": "(ক) মনপুরা উপজেলা এবং (খ) চরফ্যাশন উপজেলা",
+    "candidate_name": "মোঃ নুরুল ইসলাম নয়ন"
+  },
+  {
+    "id": "১১৮.",
+    "division": "বরিশাল",
+    "district": "বরিশাল",
+    "constituency_name": "বরিশাল-১",
+    "constituency_area": "(ক) গৌরনদী উপজেলা এবং (খ) আগৈলঝাড়া উপজেলা",
+    "candidate_name": "জহির উদ্দিন স্বপন"
+  },
+  {
+    "id": "১১৯.",
+    "division": "বরিশাল",
+    "district": "বরিশাল",
+    "constituency_name": "বরিশাল - ২",
+    "constituency_area": "(ক) উজিরপুর উপজেলা এবং (খ) বানারীপাড়া উপজেলা",
+    "candidate_name": "সরদার সরফুদ্দিন আহমেদ সান্টু"
+  },
+  {
+    "id": "১২০.",
+    "division": "বরিশাল",
+    "district": "বরিশাল",
+    "constituency_name": "বরিশাল - ৩",
+    "constituency_area": "(ক) মুলাদী উপজেলা এবং (খ) বাবুগঞ্জ উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "১২১.",
+    "division": "বরিশাল",
+    "district": "বরিশাল",
+    "constituency_name": "বরিশাল -৪",
+    "constituency_area": "(ক) মেহেন্দীগঞ্জ উপজেলা এবং (খ) হিজলা উপজেলা",
+    "candidate_name": "মোঃ রাজীব আহসান"
+  },
+  {
+    "id": "১২২.",
+    "division": "বরিশাল",
+    "district": "বরিশাল",
+    "constituency_name": "বরিশাল - ৫",
+    "constituency_area": "(ক) বরিশাল সিটি কর্পোরেশনভুক্ত এলাকা এবং (খ) বরিশাল সদর উপজেলা",
+    "candidate_name": "মোঃ মজিবর রহমান সরওয়ার"
+  },
+  {
+    "id": "১২৩.",
+    "division": "বরিশাল",
+    "district": "বরিশাল",
+    "constituency_name": "বরিশাল - ৬",
+    "constituency_area": "বাকেরগঞ্জ উপজেলা",
+    "candidate_name": "আবুল হোসেন খান"
+  },
+  {
+    "id": "১২৪.",
+    "division": "বরিশাল",
+    "district": "ঝালকাঠি",
+    "constituency_name": "ঝালকাঠি - ১",
+    "constituency_area": "(ক) রাজাপুর উপজেলা এবং (খ) কাঁঠালিয়া উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "১২৫.",
+    "division": "বরিশাল",
+    "district": "ঝালকাঠি",
+    "constituency_name": "ঝালকাঠি - ২",
+    "constituency_area": "(ক) ঝালকাঠি সদর উপজেলা এবং (খ) নলছিটি উপজেলা",
+    "candidate_name": "ইসরাত সুলতানা ইলেন ভুট্ট"
+  },
+  {
+    "id": "১২৬.",
+    "division": "বরিশাল",
+    "district": "পিরোজপুর",
+    "constituency_name": "পিরোজপুর-১",
+    "constituency_area": "(ক) পিরোজপুর সদর উপজেলা (খ) নাজিরপুর উপজেলা এবং (গ) ইন্দুরকানী উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "১২৭.",
+    "division": "বরিশাল",
+    "district": "পিরোজপুর",
+    "constituency_name": "পিরোজপুর-২",
+    "constituency_area": "(ক) কাউখালী উপজেলা (খ) ভান্ডারিয়া উপজেলা এবং (গ) নেছাড়াবাদ উপজেলা",
+    "candidate_name": "আহমেদ সোহেল মঞ্জুর"
+  },
+  {
+    "id": "১২৮.",
+    "division": "বরিশাল",
+    "district": "পিরোজপুর",
+    "constituency_name": "পিরোজপুর ৩",
+    "constituency_area": "মঠবাড়ীয়া উপজেলা",
+    "candidate_name": "মোঃ রুহুল আমিন দুলাল"
+  },
+  {
+    "id": "১২৯.",
+    "division": "ঢাকা",
+    "district": "টাঙ্গাইল",
+    "constituency_name": "টাংগাইল -১",
+    "constituency_area": "(ক) মধুপুর উপজেলা এবং (খ) ধনবাড়ী উপজেলা",
+    "candidate_name": "ফকির মাহবুব আনাম স্বপন"
+  },
+  {
+    "id": "১৩০.",
+    "division": "ঢাকা",
+    "district": "টাঙ্গাইল",
+    "constituency_name": "টাংগাইল-২",
+    "constituency_area": "(ক) গোপালপুর উপজেলা এবং (খ) ভুয়াপুর উপজেলা",
+    "candidate_name": "আব্দুস সালাম পিন্টু"
+  },
+  {
+    "id": "১৩১.",
+    "division": "ঢাকা",
+    "district": "টাঙ্গাইল",
+    "constituency_name": "টাংগাইল-৩",
+    "constituency_area": "ঘাটাইল উপজেলা",
+    "candidate_name": "এসএম ওবায়দুল হক নাসির"
+  },
+  {
+    "id": "১৩২.",
+    "division": "ঢাকা",
+    "district": "টাঙ্গাইল",
+    "constituency_name": "টাংগাইল-৪",
+    "constituency_area": "কালিহাতী উপজেলা",
+    "candidate_name": "মোঃ লুৎফর রহমান মতিন"
+  },
+  {
+    "id": "১৩৩.",
+    "division": "ঢাকা",
+    "district": "টাঙ্গাইল",
+    "constituency_name": "টাংগাইল-৫",
+    "constituency_area": "টাংগাইল সদর উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "১৩৪.",
+    "division": "ঢাকা",
+    "district": "টাঙ্গাইল",
+    "constituency_name": "টাংগাইল-৬",
+    "constituency_area": "(ক) দেলদুয়ার উপজেলা এবং (খ) নাগরপুর উপজেলা",
+    "candidate_name": "মোঃ রবিউল আউয়াল লাবলু"
+  },
+  {
+    "id": "১৩৫.",
+    "division": "ঢাকা",
+    "district": "টাঙ্গাইল",
+    "constituency_name": "টাংগাইল-৭",
+    "constituency_area": "মির্জাপুর উপজেলা",
+    "candidate_name": "আবুল কালাম আজাদ সিদ্দিকী"
+  },
+  {
+    "id": "১৩৬.",
+    "division": "ঢাকা",
+    "district": "টাঙ্গাইল",
+    "constituency_name": "টাংগাইল-৮",
+    "constituency_area": "(ক) বাসাইল উপজেলা এবং (খ) সখিপুর উপজেলা",
+    "candidate_name": "আহমেদ আজম খান"
+  },
+  {
+    "id": "১৩৭.",
+    "division": "ময়মনসিংহ",
+    "district": "জামালপুর",
+    "constituency_name": "জামালপুর-১",
+    "constituency_area": "(ক) বকশীগঞ্জ উপজেলা এবং (খ) দেওয়ানগঞ্জ উপজেলা",
+    "candidate_name": "এম রশিদুজ্জামান মিল্লাত"
+  },
+  {
+    "id": "১৩৮.",
+    "division": "ময়মনসিংহ",
+    "district": "জামালপুর",
+    "constituency_name": "জামালপুর-২",
+    "constituency_area": "ইসলামপুর উপজেলা",
+    "candidate_name": "এ ই সুলতান মাহমুদ বাবু"
+  },
+  {
+    "id": "১৩৯.",
+    "division": "ময়মনসিংহ",
+    "district": "জামালপুর",
+    "constituency_name": "জামালপুর-৩",
+    "constituency_area": "(ক) মাদারগঞ্জ উপজেলা এবং (খ) মেলান্দহ উপজেলা",
+    "candidate_name": "মোঃ মুস্তাফিজুর রহমান বাবুল"
+  },
+  {
+    "id": "১৪০.",
+    "division": "ময়মনসিংহ",
+    "district": "জামালপুর",
+    "constituency_name": "জামালপুর-৪",
+    "constituency_area": "সরিষাবাড়ি উপজেলা",
+    "candidate_name": "মোঃ ফরিদুল কবির তালুকদার শামীম"
+  },
+  {
+    "id": "১৪১.",
+    "division": "ময়মনসিংহ",
+    "district": "জামালপুর",
+    "constituency_name": "জামালপুর-৫",
+    "constituency_area": "জামালপুর সদর উপজেলা",
+    "candidate_name": "শাহ মোঃ ওয়ারেস আলী মামুন"
+  },
+  {
+    "id": "১৪২.",
+    "division": "ময়মনসিংহ",
+    "district": "শেরপুর",
+    "constituency_name": "শেরপুর-১",
+    "constituency_area": "শেরপুর সদর উপজেলা",
+    "candidate_name": "সানসিলা জেবরিন"
+  },
+  {
+    "id": "১৪৩.",
+    "division": "ময়মনসিংহ",
+    "district": "শেরপুর",
+    "constituency_name": "শেরপুর-২",
+    "constituency_area": "(ক) নকলা উপজেলা এবং (খ) নালিতাবাড়ি উপজেলা",
+    "candidate_name": "মোহাম্মদ ফাহিম চৌধুরী"
+  },
+  {
+    "id": "১৪৪.",
+    "division": "ময়মনসিংহ",
+    "district": "শেরপুর",
+    "constituency_name": "শেরপুর-৩",
+    "constituency_area": "(ক) শ্রীবর্দি উপজেলা এবং (খ) ঝিনাইগাতি উপজেলা",
+    "candidate_name": "মোঃ মাহমুদুল হক রুবেল"
+  },
+  {
+    "id": "১৪৫.",
+    "division": "ময়মনসিংহ",
+    "district": "ময়মনসিংহ",
+    "constituency_name": "ময়মনসিংহ-১",
+    "constituency_area": "(ক) হালুয়াঘাট উপজেলা এবং (খ) ধোবাউড়া উপজেলা",
+    "candidate_name": "সৈয়দ এমরান সালেহ"
+  },
+  {
+    "id": "১৪৬.",
+    "division": "ময়মনসিংহ",
+    "district": "ময়মনসিংহ",
+    "constituency_name": "ময়মনসিংহ-২",
+    "constituency_area": "(ক) ফুলপুর উপজেলা এবং (খ) তারাকান্দা উপজেলা",
+    "candidate_name": "মোতাহের হোসেন তালুকদার"
+  },
+  {
+    "id": "১৪৭.",
+    "division": "ময়মনসিংহ",
+    "district": "ময়মনসিংহ",
+    "constituency_name": "ময়মনসিংহ-৩",
+    "constituency_area": "গৌরীপুর উপজেলা",
+    "candidate_name": "এম ইকবাল হোসেইন"
+  },
+  {
+    "id": "১৪৮.",
+    "division": "ময়মনসিংহ",
+    "district": "ময়মনসিংহ",
+    "constituency_name": "ময়মনসিংহ-৪",
+    "constituency_area": "(ক) ময়মনসিংহ সিটি কর্পোরেশনভুক্ত এলাকা এবং (খ) ময়মনসিংহ সদর উপজেলা",
+    "candidate_name": "স্থগিত"
+  },
+  {
+    "id": "১৪৯.",
+    "division": "ময়মনসিংহ",
+    "district": "ময়মনসিংহ",
+    "constituency_name": "ময়মনসিংহ-৫",
+    "constituency_area": "মুক্তাগাছা উপজেলা",
+    "candidate_name": "মোহাম্মদ জাকির হোসেন"
+  },
+  {
+    "id": "১৫০.",
+    "division": "ময়মনসিংহ",
+    "district": "ময়মনসিংহ",
+    "constituency_name": "ময়মনসিংহ-৬",
+    "constituency_area": "ফুলবাড়ীয়া উপজেলা",
+    "candidate_name": "মোঃ আখতারুল আলম"
+  },
+  {
+    "id": "১৫১.",
+    "division": "ময়মনসিংহ",
+    "district": "ময়মনসিংহ",
+    "constituency_name": "ময়মনসিংহ-৭",
+    "constituency_area": "ত্রিশাল উপজেলা",
+    "candidate_name": "ডাঃ মোঃ মাহবুবুর রহমান"
+  },
+  {
+    "id": "১৫২.",
+    "division": "ময়মনসিংহ",
+    "district": "ময়মনসিংহ",
+    "constituency_name": "ময়মনসিংহ-৮",
+    "constituency_area": "ঈশ্বরগঞ্জ উপজেলা",
+    "candidate_name": "লুতফুল্লাহেল মাজেদ"
+  },
+  {
+    "id": "১৫৩.",
+    "division": "ময়মনসিংহ",
+    "district": "ময়মনসিংহ",
+    "constituency_name": "ময়মনসিংহ-৯",
+    "constituency_area": "নান্দাইল উপজেলা",
+    "candidate_name": "ইয়াসের খাঁন চৌধুরী"
+  },
+  {
+    "id": "১৫৪.",
+    "division": "ময়মনসিংহ",
+    "district": "ময়মনসিংহ",
+    "constituency_name": "ময়মনসিংহ-১০",
+    "constituency_area": "গফরগাঁও উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "১৫৫.",
+    "division": "ময়মনসিংহ",
+    "district": "ময়মনসিংহ",
+    "constituency_name": "ময়মনসিংহ-১১",
+    "constituency_area": "ভালুকা উপজেলা",
+    "candidate_name": "ফকর উদ্দিন আহমেদ"
+  },
+  {
+    "id": "১৫৬.",
+    "division": "ময়মনসিংহ",
+    "district": "নেত্রকোনা",
+    "constituency_name": "নেত্রকোনা-১",
+    "constituency_area": "(ক) কলমাকান্দা উপজেলা এবং (খ) দুর্গাপুর উপজেলা",
+    "candidate_name": "ব্যারিস্টার কায়সার কামাল"
+  },
+  {
+    "id": "১৫৭.",
+    "division": "ময়মনসিংহ",
+    "district": "নেত্রকোনা",
+    "constituency_name": "নেত্রকোনা-২",
+    "constituency_area": "(ক) নেত্রকোণা সদর উপজেলা এবং (খ) বারহাট্টা উপজেলা",
+    "candidate_name": "মোঃ আনোয়ারুল হক"
+  },
+  {
+    "id": "১৫৮.",
+    "division": "ময়মনসিংহ",
+    "district": "নেত্রকোনা",
+    "constituency_name": "নেত্রকোনা-৩",
+    "constituency_area": "(ক) আটপাড়া উপজেলা এবং (খ) কেন্দুয়া উপজেলা",
+    "candidate_name": "রফিকুল ইসলাম হিলালী"
+  },
+  {
+    "id": "১৫৯.",
+    "division": "ময়মনসিংহ",
+    "district": "নেত্রকোনা",
+    "constituency_name": "নেত্রকোনা-৪",
+    "constituency_area": "(ক) মোহনগঞ্জ উপজেলা (খ) মদন উপজেলা এবং (গ) খালিয়াজুরী উপজেলা",
+    "candidate_name": "মোঃ লুৎফুজ্জামান বাবর"
+  },
+  {
+    "id": "১৬০.",
+    "division": "ময়মনসিংহ",
+    "district": "নেত্রকোনা",
+    "constituency_name": "নেত্রকোনা-৫",
+    "constituency_area": "পূর্বধলা উপজেলা",
+    "candidate_name": "মোঃ আবু তাহের তালুকদার"
+  },
+  {
+    "id": "১৬১.",
+    "division": "ঢাকা",
+    "district": "কিশোরগঞ্জ",
+    "constituency_name": "কিশোরগঞ্জ-১",
+    "constituency_area": "(ক) কিশোরগঞ্জ সদর উপজেলা এবং (খ) হোসেনপুর উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "১৬২.",
+    "division": "ঢাকা",
+    "district": "কিশোরগঞ্জ",
+    "constituency_name": "কিশোরগঞ্জ-২",
+    "constituency_area": "(ক) কটিয়াদী উপজেলা এবং (খ) পাকুন্দিয়া উপজেলা",
+    "candidate_name": "এডভোকেট মোঃ জালাল উদ্দিন"
+  },
+  {
+    "id": "১৬৩.",
+    "division": "ঢাকা",
+    "district": "কিশোরগঞ্জ",
+    "constituency_name": "কিশোরগঞ্জ-৩",
+    "constituency_area": "(ক) তাড়াইল উপজেলা (খ) করিমগঞ্জ উপজেলা",
+    "candidate_name": "ডঃ ওসমান ফারুক"
+  },
+  {
+    "id": "১৬৪.",
+    "division": "ঢাকা",
+    "district": "কিশোরগঞ্জ",
+    "constituency_name": "কিশোরগঞ্জ-৪",
+    "constituency_area": "(ক) ইটনা উপজেলা (খ) মিঠামইন উপজেলা এবং (গ) অষ্টগ্রাম উপজেলা",
+    "candidate_name": "মোঃ ফজলুর রহমান"
+  },
+  {
+    "id": "১৬৫.",
+    "division": "ঢাকা",
+    "district": "কিশোরগঞ্জ",
+    "constituency_name": "কিশোরগঞ্জ-৫",
+    "constituency_area": "(ক) নিকলী উপজেলা এবং (খ) বাজিতপুর উপজেলা",
+    "candidate_name": "মোঃ শরীফুল আলম"
+  },
+  {
+    "id": "১৬৬.",
+    "division": "ঢাকা",
+    "district": "কিশোরগঞ্জ",
+    "constituency_name": "কিশোরগঞ্জ-৬",
+    "constituency_area": "(ক) কুলিয়ারচর উপজেলা এবং (খ) ভৈরব উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "১৬৭.",
+    "division": "ঢাকা",
+    "district": "মানিকগঞ্জ",
+    "constituency_name": "মানিকগঞ্জ -১",
+    "constituency_area": "(ক) দৌলতপুর উপজেলা (খ) ঘিওর উপজেলা এবং (গ) শিবালয় উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "১৬৮.",
+    "division": "ঢাকা",
+    "district": "মানিকগঞ্জ",
+    "constituency_name": "মানিকগঞ্জ-২",
+    "constituency_area": "(ক) সিঙ্গাইর উপজেলা (খ) হরিরামপুর উপজেলা এবং (গ) মানিকগঞ্জ সদর উপজেলার হাটিপাড়া ও ভাড়ারিয়া ইউনিয়নসমূহ",
+    "candidate_name": "মঈনুল ইসলাম খাঁন"
+  },
+  {
+    "id": "১৬৯.",
+    "division": "ঢাকা",
+    "district": "মানিকগঞ্জ",
+    "constituency_name": "মানিকগঞ্জ-৩",
+    "constituency_area": "(ক) হাটিপাড়া ও ভাড়ারিয়া ইউনিয়নসমূহ ব্যতীত মানিকগঞ্জ সদর উপজেলা এবং (খ) সাটুরিয়া উপজেলা",
+    "candidate_name": "আফরোজা খান রিতা"
+  },
+  {
+    "id": "১৭০.",
+    "division": "ঢাকা",
+    "district": "মুন্সীগঞ্জ",
+    "constituency_name": "মুন্সীগঞ্জ-১",
+    "constituency_area": "(ক) শ্রীনগর উপজেলা এবং (খ) সিরাজদিখান উপজেলা",
+    "candidate_name": "শেখ মোঃ আবদুল্লাহ"
+  },
+  {
+    "id": "১৭১.",
+    "division": "ঢাকা",
+    "district": "মুন্সীগঞ্জ",
+    "constituency_name": "মুন্সীগঞ্জ-২",
+    "constituency_area": "(ক) লৌহজং উপজেলা এবং (খ) টঙ্গীবাড়ী উপজেলা",
+    "candidate_name": "মিজানুর রহমান সিনহা"
+  },
+  {
+    "id": "১৭২.",
+    "division": "ঢাকা",
+    "district": "মুন্সীগঞ্জ",
+    "constituency_name": "মুন্সীগঞ্জ-৩",
+    "constituency_area": "(ক) মুন্সীগঞ্জ সদর উপজেলা এবং (খ) গজারিয়া",
+    "candidate_name": ""
+  },
+  {
+    "id": "১৭৩.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-১",
+    "constituency_area": "(ক) দোহার উপজেলা এবং (খ) নবাবগঞ্জ",
+    "candidate_name": "খন্দকার আবু আশফাক"
+  },
+  {
+    "id": "১৭৪.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-২",
+    "constituency_area": "(ক) কেরানীগঞ্জ উপজেলার নিম্নলিখিত ইউনিয়নসমূহ:- ৯১) তাড়ানগর (২) কলাতিয়া (৩) হজরতপুর (৪) রুহিতপুর (৫) শাক্তা (৬) কালিন্দি ও (৭) ভাস্তা ইউনিয়ন এবং (খ) সাভার উপজেলার নিম্নলিখিত ইউনিয়নসমূহ:- (১) আমীনবাজার (২) তেতুলজোড়া ও (৩) ভার্কুতা ইউনিয়ন",
+    "candidate_name": "আমান উল্লাহ আমান"
+  },
+  {
+    "id": "১৭৫.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-৩",
+    "constituency_area": "(ক) কেরানীগঞ্জ উপজেলার নিম্নলিখিত ইউনিয়নসমূহ: (১) জিনজিরা (২) আগানগর (৩) তেঘরিয়া (৪) কোন্ডা ও (৫) শুভাঢ্যা ইউনিয়ন",
+    "candidate_name": "গয়েশ্বর চন্দ্র রায়"
+  },
+  {
+    "id": "১৭৬.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-৪",
+    "constituency_area": "ঢাকা দক্ষিণ সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ৪৭,৫১,৫২,৫৩,৫৪,৫৮,৫৯,৬০ এবং ৬১ (শ্যামপুর, কদমতলী)",
+    "candidate_name": "তানভীর আহমেদ রবিন"
+  },
+  {
+    "id": "১৭৭.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-৫",
+    "constituency_area": "ঢাকা দক্ষিণ সিটি কর্পোরেশনের ওয়ার্ড নম্বর-৪৮, ৪৯, ৫০, ৬২, ৬৩, ৬৪,৬৫,৬৬,৬৭,৬৮,৬৯ এবং ৭০ (যাতাবাড়ি, ডেমরা)",
+    "candidate_name": "নবী উল্লাহ নবী"
+  },
+  {
+    "id": "১৭৮.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-৬",
+    "constituency_area": "ঢাকা দক্ষিণ সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ৩৪,৩৭,৩৮,৩৯,৪০, ৪১,৪২,৪৩,৪৪,৪৫ ও ৪৬ (সুত্রাপুর, ওয়ারী, গেন্ডারিয়া, কোতোয়ালী আংশিক)",
+    "candidate_name": "ইসরাক হোসেন"
+  },
+  {
+    "id": "১৭৯.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-৭",
+    "constituency_area": "ঢাকা দক্ষিণ সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ২৩, ২৪, ২৫, ২৬, ২৭, ২৮,২৯,৩০ ৩১,৩২,৩৩,৩৫,৩৬,৫৬ ও ৫৭ (লালবাগ, চকবাজার, বংশাল, কামরাঙ্গীর চর আংশিক, কোতোয়ালী আংশিক)",
+    "candidate_name": ""
+  },
+  {
+    "id": "১৮০.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-৮",
+    "constituency_area": "ঢাকা দক্ষিণ সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ০৮,০৯,১০,১১,১২, ১৩,১৯,২০ ও ২১ (মতিঝিল, পল্টন, শাহবাগ, শাহজাহানপুর, রমনা)",
+    "candidate_name": "মির্জা আব্বাস উদ্দিন আহমেদ"
+  },
+  {
+    "id": "১৮১.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-৯",
+    "constituency_area": "ঢাকা দক্ষিণ সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ০১,০২,০৩,০৪,০৫, ০৬,০৭,৭১,৭২,৭৩,৭৪ ও ৭৫ (সবুজবাগ, খিলগাঁও, মুগদা)",
+    "candidate_name": ""
+  },
+  {
+    "id": "১৮২.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-১০",
+    "constituency_area": "ঢাকা দক্ষিণ সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ১৪,১৫,১৬,১৭,১৮, ২২ ও ৫৫ (ধানমন্ডি, নিউমার্কেট, কলাবাগান, হাজারীবাগ)",
+    "candidate_name": ""
+  },
+  {
+    "id": "১৮৩.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-১১",
+    "constituency_area": "ঢাকা উত্তর সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ২১, ২২, ২৩, ৩৭, ৩৮, ৩৯,৪০,৪১ ও ৪২ (বাড্ডা, বাটারা, রামপুরা)",
+    "candidate_name": "এম এ কাইয়ুম"
+  },
+  {
+    "id": "১৮৪.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-১২",
+    "constituency_area": "ঢাকা উত্তর সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ২৪,২৫,২৬,২৭,৩৫ ও ৩৬ (তেজগাঁও শিল্পাঞ্চল, হাতিরঝিল, শেরে বাংলা নগর আংশিক)",
+    "candidate_name": "সাইফুল আলম নীরব"
+  },
+  {
+    "id": "১৮৫.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-১৩",
+    "constituency_area": "ঢাকা উত্তর সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ২৮,২৯,৩০,৩১,৩২, ৩৩ ও ৩৪ (মোহাম্মদপুর, আদাবর, শেরে বাংলা নগর আংশিক)",
+    "candidate_name": ""
+  },
+  {
+    "id": "১৮৬.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-১৪",
+    "constituency_area": "ঢাকা উত্তর সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ০৭,০৮,০৯,১০,১১ ও ১২ এবং সাভার উপজেলার কাউন্দিয়া ও বনগাঁও ইউনিয়ন (মিরপুর, শাহ আলী, দারুসালাম)",
+    "candidate_name": "সানজিদা ইসলাম তুলি"
+  },
+  {
+    "id": "১৮৭.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-১৫",
+    "constituency_area": "ঢাকা উত্তর সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ০৪,১৩,১৪ ও ১৬ (কাফরুল)",
+    "candidate_name": "মোঃ শফিকুল ইসলাম খান"
+  },
+  {
+    "id": "১৮৮.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-১৬",
+    "constituency_area": "ঢাকা উত্তর সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ০২,০৩,০৫ ও ০৬ (রুপনগর, পল্লবী)",
+    "candidate_name": ""
+  },
+  {
+    "id": "১৮৯.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-১৭",
+    "constituency_area": "(ক) ঢাকা উত্তর সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ১৫,১৮,১৯ ও ২০ এবং (খ) ঢাকা ক্যান্টনমেন্ট এলাকা (গুলশান, বনানী)",
+    "candidate_name": "আমিনুল হক"
+  },
+  {
+    "id": "১৯০.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-১৮",
+    "constituency_area": "ঢাকা উত্তর সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ০১,১৭,৪৩,৪৪,৪৫, ৪৬, ৪৭,৪৮,৪৯,৫০,৫১,৫২,৫৩,৫৪ ও বিমানবন্দর এলাকা (বৃহত্তর উত্তরা ৬টি থানা)",
+    "candidate_name": ""
+  },
+  {
+    "id": "১৯১.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-১৯",
+    "constituency_area": "(ক) সাভার উপজেলার নিম্নলিখিত ইউনিয়নসমূহ: (১) শিমুলিয়া (২) ধামসোনা (৩) ইয়ারপুর (৪) আশুলিয়া (৫) বিরুলিয়া (৬) পাথালিয়া ইউনিয়ন ও (৬) সাভার ইউনিয়ন (খ) সাভার পৌরসভা এবং (গ) সাভার সেনানিবাস এলাকা",
+    "candidate_name": " ডাঃ দেওয়ান মোঃ সালাউদ্দিন"
+  },
+  {
+    "id": "১৯২.",
+    "division": "ঢাকা",
+    "district": "ঢাকা",
+    "constituency_name": "ঢাকা-২০",
+    "constituency_area": "ধামরাই উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "১৯৩.",
+    "division": "ঢাকা",
+    "district": "গাজীপুর",
+    "constituency_name": "গাজীপুর -১",
+    "constituency_area": "(ক) কালিয়াকৈর উপজেলা এবং (খ) গাজীপুর সিটি কর্পোরেশনের ওয়ার্ড নম্বর-৭-১২",
+    "candidate_name": ""
+  },
+  {
+    "id": "১৯৪.",
+    "division": "ঢাকা",
+    "district": "গাজীপুর",
+    "constituency_name": "গাজীপুর -২",
+    "constituency_area": "(ক) গাজীপুর সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ১-৬ এবং ১৩- ৩১ (খ) গাজীপুর সদর উপজেলার বাড়িয়া ইউনিয়ন",
+    "candidate_name": "এম মঞ্জুরুল করিম রনি"
+  },
+  {
+    "id": "১৯৫.",
+    "division": "ঢাকা",
+    "district": "গাজীপুর",
+    "constituency_name": "গাজীপুর-৩",
+    "constituency_area": "(ক) শ্রীপুর উপজেলা এবং (খ) গাজীপুর সদর উপজেলার মির্জাপুর, ভাউয়াল গড় ও পিরুজালী ইউনিয়ন এবং (গ) গাজীপুর সেনানিবাস এলাকা",
+    "candidate_name": "অধ্যাপক ডাঃ এসএম রফিকুল ইসলাম বাচ্চু"
+  },
+  {
+    "id": "১৯৬.",
+    "division": "ঢাকা",
+    "district": "গাজীপুর",
+    "constituency_name": "গাজীপুর-৪",
+    "constituency_area": "কাপাসিয়া উপজেলা",
+    "candidate_name": "শাহ রিয়াজুল হান্নান"
+  },
+  {
+    "id": "১৯৭.",
+    "division": "ঢাকা",
+    "district": "গাজীপুর",
+    "constituency_name": "গাজীপুর -৫",
+    "constituency_area": "(ক) কালিগঞ্জ উপজেলা এবং (খ) গাজীপুর সিটি কর্পোরেশনের ওয়ার্ড নম্বর-৪০,৪১ এবং ৪২",
+    "candidate_name": "ফজলুল হক মিলন"
+  },
+  {
+    "id": "১৯৮.",
+    "division": "ঢাকা",
+    "district": "গাজীপুর",
+    "constituency_name": "গাজীপুর-৬",
+    "constituency_area": "গাজীপুর সিটি কর্পোরেশনের ওয়ার্ড নম্বর-৩২-৩৯ এবং ৪৩-৫৭",
+    "candidate_name": ""
+  },
+  {
+    "id": "১৯৯.",
+    "division": "ঢাকা",
+    "district": "নরসিংদী",
+    "constituency_name": "নরসিংদী-১",
+    "constituency_area": "নিম্নবর্ণিত ইউনিয়ন ব্যতীত নরসিংদী সদর উপজেলা: (১) আমদিয়া (২) পাঁচদোনা ও (৩) মেহেরপাড়া ইউনিয়ন",
+    "candidate_name": "খায়রুল কবির খোকন"
+  },
+  {
+    "id": "২০০.",
+    "division": "ঢাকা",
+    "district": "নরসিংদী",
+    "constituency_name": "নরসিংদী-২",
+    "constituency_area": "(ক) পলাশ উপজেলা এবং (খ) নরসিংদী সদর উপজেলার নিম্নবর্ণিত ইউনিয়নসমূহ:- (১) আমদিয়া (২) পাঁচদোনা ও (৩) মেহেরপাড়া ইউনিয়ন",
+    "candidate_name": "ডঃ আব্দুল মঈন খান"
+  },
+  {
+    "id": "২০১.",
+    "division": "ঢাকা",
+    "district": "নরসিংদী",
+    "constituency_name": "নরসিংদী-৩",
+    "constituency_area": "শিবপুর উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "২০২.",
+    "division": "ঢাকা",
+    "district": "নরসিংদী",
+    "constituency_name": "নরসিংদী-৪",
+    "constituency_area": "(ক) মনোহরদী উপজেলা এবং (খ) বেলাব উপজেলা",
+    "candidate_name": "সরদার মোঃ সাখাওয়াত হোসেন"
+  },
+  {
+    "id": "২০৩.",
+    "division": "ঢাকা",
+    "district": "নরসিংদী",
+    "constituency_name": "নরসিংদী-৫",
+    "constituency_area": "রায়পুরা উপজেলা",
+    "candidate_name": "ইঞ্জিঃ মোঃ আশরাফ উদ্দিন বকুল"
+  },
+  {
+    "id": "২০৪.",
+    "division": "ঢাকা",
+    "district": "নারায়ণগঞ্জ",
+    "constituency_name": "নারায়ণগঞ্জ -১",
+    "constituency_area": "রূপগঞ্জ উপজেলা",
+    "candidate_name": "মোস্তাফিজুর রহমান ভূইয়া দীপু"
+  },
+  {
+    "id": "২০৫.",
+    "division": "ঢাকা",
+    "district": "নারায়ণগঞ্জ",
+    "constituency_name": "নারায়ণগঞ্জ -২",
+    "constituency_area": "আড়াইহাজার উপজেলা",
+    "candidate_name": "নজরুল ইসলাম আজাদ"
+  },
+  {
+    "id": "২০৬.",
+    "division": "ঢাকা",
+    "district": "নারায়ণগঞ্জ",
+    "constituency_name": "নারায়ণগঞ্জ-৩",
+    "constituency_area": "(ক) সোনারগাঁও উপজেলা এবং (খ) সিদ্ধিরগঞ্জ থানা (নারায়ণগঞ্জ সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ১-১০",
+    "candidate_name": "মোঃ আজহারুল ইসলাম মান্নান"
+  },
+  {
+    "id": "২০৭.",
+    "division": "ঢাকা",
+    "district": "নারায়ণগঞ্জ",
+    "constituency_name": "নারায়ণগঞ্জ-৪",
+    "constituency_area": "নারায়ণগঞ্জ সদর উপজেলার নিম্নলিখিত ইউনিয়নসমূহ: (১) ফতুল্লা (২) এনায়েতপুর (৩) বক্তাবলী (৪) কাশিপুর (৫) কুতুবপুর (৬) গোপনগর ও (৭) আলীরটেক",
+    "candidate_name": ""
+  },
+  {
+    "id": "২০৮.",
+    "division": "ঢাকা",
+    "district": "নারায়ণগঞ্জ",
+    "constituency_name": "নারায়ণগঞ্জ-৫",
+    "constituency_area": "(ক) নারায়ণগঞ্জ সিটি কর্পোরেশনের ওয়ার্ড নম্বর-১১-২৭ এবং (খ) বন্দর উপজেলা",
+    "candidate_name": "মোঃ মাসুদুজ্জামান"
+  },
+  {
+    "id": "২০৯.",
+    "division": "ঢাকা",
+    "district": "রাজবাড়ী",
+    "constituency_name": "রাজবাড়ী - ১",
+    "constituency_area": "(ক) রাজবাড়ী সদর উপজেলা এবং (খ) গোয়ালন্দ উপজেলা",
+    "candidate_name": "আলি নেওয়াজ মাহমুদ খৈয়ম"
+  },
+  {
+    "id": "২১০.",
+    "division": "ঢাকা",
+    "district": "রাজবাড়ী",
+    "constituency_name": "রাজবাড়ী - ২",
+    "constituency_area": "(ক) পাংশা উপজেলা (খ) কালুখালী উপজেলা এবং (গ) বালিয়াকান্দি উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "২১১.",
+    "division": "ঢাকা",
+    "district": "ফরিদপুর",
+    "constituency_name": "ফরিদপুর- ১",
+    "constituency_area": "(ক) মধুখালী উপজেলা (খ) বোয়ালমারী উপজেলা এবং (গ) আলফাডাঙ্গা উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "২১২.",
+    "division": "ঢাকা",
+    "district": "ফরিদপুর",
+    "constituency_name": "ফরিদপুর- ২",
+    "constituency_area": "(ক) নগরকান্দা উপজেলা (খ) সালথা উপজেলা এবং (গ) ভাঙ্গা উপজেলার নিম্নলিখিত ইউনিয়নসমূহ: (১) আলগি ও (২) হামিরদি ইউনিয়ন",
+    "candidate_name": "শ্যামা ওবায়েদ ইসলাম"
+  },
+  {
+    "id": "২১৩.",
+    "division": "ঢাকা",
+    "district": "ফরিদপুর",
+    "constituency_name": "ফরিদপুর- ৩",
+    "constituency_area": "ফরিদপুর সদর উপজেলা",
+    "candidate_name": "নায়াব ইউসুফ আহমেদ"
+  },
+  {
+    "id": "২১৪.",
+    "division": "ঢাকা",
+    "district": "ফরিদপুর",
+    "constituency_name": "ফরিদপুর- ৪",
+    "constituency_area": "(ক) নিম্নলিখিত ইউনিয়নসমূহ ব্যতীত ভাঙ্গা উপজেলা; (১) আলগি ও (২) হামিরদি ইউনিয়ন (খ) চরভদ্রাসন উপজেলা এবং (গ) সদরপুর উপজেলা",
+    "candidate_name": "শহীদুল ইসলাম বাবুল"
+  },
+  {
+    "id": "২১৫.",
+    "division": "ঢাকা",
+    "district": "গোপালগঞ্জ",
+    "constituency_name": "গোপালগঞ্জ - ১",
+    "constituency_area": "(ক) মুকসুদপুর উপজেলা এবং (খ) নিম্নলিখিত ইউনিয়সমূহ ব্যতীত কাশিয়ানী উপজেলা: (১) সিংগা (২) হাতিয়াড়া (৩) পুইশুর (৪) বেথুড়ী (৫) নিজামকান্দি (৬) ওড়াকান্দি ও (৭) ফুকরা ইউনিয়ন।",
+    "candidate_name": "মোঃ সেলিমুজ্জামান মোল্ল্যা"
+  },
+  {
+    "id": "২১৬.",
+    "division": "ঢাকা",
+    "district": "গোপালগঞ্জ",
+    "constituency_name": "গোপালগঞ্জ - ২",
+    "constituency_area": "(ক) গোপালগঞ্জ সদর উপজেলা এবং (খ) কাশিয়ানী উপজেলার নিম্নলিখিত ইউনিয়নসমূহ: (১) সিংগা (২) হাতিয়াড়া (৩) পুইশুর (৪) বেথুড়ী (৫) নিজামকান্দি (৬) ওড়াকান্দি ও (৭) ফুকরা ইউনিয়ন",
+    "candidate_name": "ডাঃ কে এম বাবর আলী"
+  },
+  {
+    "id": "২১৭.",
+    "division": "ঢাকা",
+    "district": "গোপালগঞ্জ",
+    "constituency_name": "গোপালগঞ্জ ৩",
+    "constituency_area": "(ক) টুঙ্গিপাড়া উপজেলা এবং (খ) কোটালীপাড়া উপজেলা",
+    "candidate_name": "এস এম জিলানী"
+  },
+  {
+    "id": "২১৮.",
+    "division": "ঢাকা",
+    "district": "মাদারীপুর",
+    "constituency_name": "মাদারীপুর - ১",
+    "constituency_area": "শিবচর উপজেলা",
+    "candidate_name": "কামাল জামান মোল্লা"
+  },
+  {
+    "id": "২১৯.",
+    "division": "ঢাকা",
+    "district": "মাদারীপুর",
+    "constituency_name": "মাদারীপুর - ২",
+    "constituency_area": "(ক) রাজৈর উপজেলা এবং (খ) নিম্নলিখিত ইউনিয়নসমূহ ব্যতীত মাদারীপুর সদর উপজেলাঃ (১) খোয়াজপুর (২) ঝাউদি (৩) ঘটমাঝি (৪) মস্তফাপুর ও (৫) কেন্দুয়া ইউনিয়ন",
+    "candidate_name": ""
+  },
+  {
+    "id": "২২০.",
+    "division": "ঢাকা",
+    "district": "মাদারীপুর",
+    "constituency_name": "মাদারীপুর - ৩",
+    "constituency_area": "(ক) কালকিনি উপজেলা (খ) ডাসার উপজেলা এবং (গ) মাদারীপুর সদর উপজেলার নিম্নলিখিথ ইউনিয়নসমূহ: (১) খোয়াজপুর (২) ঝাউদি (৩) ঘটমাঝি (৪) মস্তফাপুর ও (৫) কেন্দুয়া ইউনিয়ন",
+    "candidate_name": "আনিসুর রহমান"
+  },
+  {
+    "id": "২২১.",
+    "division": "ঢাকা",
+    "district": "শরীয়তপুর",
+    "constituency_name": "শরীয়তপুর - ১",
+    "constituency_area": "(ক) শরীয়তপুর সদর উপজেলা এবং (খ) জাজিরা উপজেলা",
+    "candidate_name": "সাইদ আহমেদ আসলাম"
+  },
+  {
+    "id": "২২২.",
+    "division": "ঢাকা",
+    "district": "শরীয়তপুর",
+    "constituency_name": "শরীয়তপুর- ২",
+    "constituency_area": "(ক) নড়িয়া উপজেলা এবং (খ) ভেদরগঞ্জ উপজেলার ইউনিয়নসমূহ [সখিপুর থানা]",
+    "candidate_name": "মোঃ শফিকুর রহমান কিরণ"
+  },
+  {
+    "id": "২২৩.",
+    "division": "ঢাকা",
+    "district": "শরীয়তপুর",
+    "constituency_name": "শরীয়তপুর-৩",
+    "constituency_area": "(ক) ডামুড্যা উপজেলা (খ) গোসাইরহাট উপজেলা (গ) ভেদরগঞ্জ উপজেলার নিম্নলিখিত ইউনিয়নসমূহ: (১) ছয়গাঁও (২) নারায়ণপুর (৩) মহিষার ও (৪) রামভদ্রপুর ইউনিয়ন এবং (ঘ) ভেদরগঞ্জ পৌরসভা",
+    "candidate_name": "মিয়াঁ নুরুদ্দিন আহমেদ অপু"
+  },
+  {
+    "id": "২২৪.",
+    "division": "সিলেট",
+    "district": "সুনামগঞ্জ",
+    "constituency_name": "সুনামগঞ্জ-১",
+    "constituency_area": "(ক) ধর্মপাশা উপজেলা (খ) মাধ্যনগর উপজেলা (গ) তাহিরপুর উপজেলা এবং (ঘ) জামালগঞ্জ উপজেলা",
+    "candidate_name": "আনিসুল হক"
+  },
+  {
+    "id": "২২৫.",
+    "division": "সিলেট",
+    "district": "সুনামগঞ্জ",
+    "constituency_name": "সুনামগঞ্জ-২",
+    "constituency_area": "(ক) দিরাই উপজেলা এবং (খ) শাল্লা উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "২২৬.",
+    "division": "সিলেট",
+    "district": "সুনামগঞ্জ",
+    "constituency_name": "সুনামগঞ্জ-৩",
+    "constituency_area": "(ক) জগন্নাথপুর উপজেলা এবং (খ) শান্তিগঞ্জ উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "২২৭.",
+    "division": "সিলেট",
+    "district": "সুনামগঞ্জ",
+    "constituency_name": "সুনামগঞ্জ-৪",
+    "constituency_area": "(ক) সুনামগঞ্জ সদর উপজেলা এবং (খ) বিশ্বম্ভরপুর উপজেলা",
+    "candidate_name": "মোহাম্মদ কয়সর আমমেদ"
+  },
+  {
+    "id": "২২৮.",
+    "division": "সিলেট",
+    "district": "সুনামগঞ্জ",
+    "constituency_name": "সুনামগঞ্জ-৫",
+    "constituency_area": "(ক) ছাতক উপজেলা এবং (খ) দোয়ারাবাজার উপজেলা",
+    "candidate_name": "কলিম উদ্দিন মিলন"
+  },
+  {
+    "id": "২২৯.",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "constituency_name": "সিলেট-১",
+    "constituency_area": "(ক) সিলেট সিটি কর্পোরেশনভুক্ত এলাকা এবং (খ) সিলেট সদর উপজেলা",
+    "candidate_name": "খন্দকার আব্দুল মোক্তাদির চৌধুরী"
+  },
+  {
+    "id": "২৩০.",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "constituency_name": "সিলেট-২",
+    "constituency_area": "(ক) বিশ্বনাথ উপজেলা এবং (খ) ওসমানী নগর উপজেলা",
+    "candidate_name": "মোছাঃ তাহসিনা রুশদীর"
+  },
+  {
+    "id": "২৩১.",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "constituency_name": "সিলেট-৩",
+    "constituency_area": "(ক) সিলেট সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ২৮,২৯,৩০,৪০,৪১ ও ৪২ (খ) দক্ষিণ সুরমা উপজেলা (গ) ফেঞ্চুগঞ্জ উপজেলা এবং (ঘ) বালাগঞ্জ উপজেলা",
+    "candidate_name": "মোহাম্মদ আবদুল মালিক"
+  },
+  {
+    "id": "২৩২.",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "constituency_name": "সিলেট-৪",
+    "constituency_area": "(ক) কোম্পানীগঞ্জ উপজেলা (খ) গোয়াইনঘাট উপজেলা (গ) জৈন্তাপুর উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "২৩৩.",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "constituency_name": "সিলেট-৫",
+    "constituency_area": "(ক) কানাইঘাট উপজেলা এবং (খ) জকিগঞ্জ উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "২৩৪.",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "constituency_name": "সিলেট-৬",
+    "constituency_area": "(ক) বিয়ানীবাজার উপজেলা এবং (খ) গোলাপগঞ্জ উপজেলা",
+    "candidate_name": "এমরান আহমেদ চৌধুরী"
+  },
+  {
+    "id": "২৩৫.",
+    "division": "সিলেট",
+    "district": "মৌলভীবাজার",
+    "constituency_name": "মৌলভীবাজার-১",
+    "constituency_area": "(ক) বড়লেখা উপজেলা এবং (খ) জুড়ী উপজেলা",
+    "candidate_name": "নাসির উদ্দিন আহমেদ মীঠু"
+  },
+  {
+    "id": "২৩৬.",
+    "division": "সিলেট",
+    "district": "মৌলভীবাজার",
+    "constituency_name": "মৌলভীবাজার-২",
+    "constituency_area": "(ক) কুলাউড়া উপজেলা",
+    "candidate_name": "সওকত হোসেন সকু"
+  },
+  {
+    "id": "২৩৭.",
+    "division": "সিলেট",
+    "district": "মৌলভীবাজার",
+    "constituency_name": "মৌলভীবাজার-৩",
+    "constituency_area": "(ক) মৌলভীবাজার সদর উপজেলা এবং (খ) রাজনগর উপজেলা",
+    "candidate_name": "নাসের রহমান"
+  },
+  {
+    "id": "২৩৮.",
+    "division": "সিলেট",
+    "district": "মৌলভীবাজার",
+    "constituency_name": "মৌলভীবাজার-৪",
+    "constituency_area": "(ক) শ্রীমঙ্গল উপজেলা এবং (খ) কমলগঞ্জ উপজেলা",
+    "candidate_name": "মোঃ মজিবর রহমান চৌধুরী"
+  },
+  {
+    "id": "২৩৯.",
+    "division": "সিলেট",
+    "district": "হবিগঞ্জ",
+    "constituency_name": "হবিগঞ্জ -১",
+    "constituency_area": "(ক) নবীগঞ্জ উপজেলা এবং (খ) বাহুবল উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "২৪০.",
+    "division": "সিলেট",
+    "district": "হবিগঞ্জ",
+    "constituency_name": "হবিগঞ্জ-২",
+    "constituency_area": "(ক) আজমিরীগঞ্জ উপজেলা এবং (খ) বানিয়াচং উপজেলা",
+    "candidate_name": "আবু মনসুর সাখাওয়াত হাসান জীবন"
+  },
+  {
+    "id": "২৪১.",
+    "division": "সিলেট",
+    "district": "হবিগঞ্জ",
+    "constituency_name": "হবিগঞ্জ-৩",
+    "constituency_area": "(ক) হবিগঞ্জ সদর উপজেলা (খ) লাখাই উপজেলা এবং (গ) শায়েস্তগঞ্জ উপজেলা",
+    "candidate_name": "আলহাজ্ব মোঃ জি কে গউস"
+  },
+  {
+    "id": "২৪২.",
+    "division": "সিলেট",
+    "district": "হবিগঞ্জ",
+    "constituency_name": "হবিগঞ্জ-৪",
+    "constituency_area": "(ক) চুনারুঘাট উপজেলা এবং (খ) মাধবপুর উপজেলা",
+    "candidate_name": "এস এম ফয়সাল"
+  },
+  {
+    "id": "২৪৩.",
+    "division": "চট্টগ্রাম",
+    "district": "ব্রাহ্মণবাড়িয়া",
+    "constituency_name": "ব্রাহ্মনবাড়িয়া - ১",
+    "constituency_area": "নাসিরনগর উপজেলা",
+    "candidate_name": "এম এ হান্নান"
+  },
+  {
+    "id": "২৪৪.",
+    "division": "চট্টগ্রাম",
+    "district": "ব্রাহ্মণবাড়িয়া",
+    "constituency_name": "ব্রাহ্মনবাড়িয়া - ২",
+    "constituency_area": "(ক) সরাইল উপজেলা (খ) আশুগঞ্জ উপজেলা এবং (গ) বিজয়নগর উপজেলার নিম্নলিখিত ইউনিয়নসমূহ: (১) বুধন্তি ও (২) চান্দুরা ইউনিয়ন",
+    "candidate_name": ""
+  },
+  {
+    "id": "২৪৫.",
+    "division": "চট্টগ্রাম",
+    "district": "ব্রাহ্মণবাড়িয়া",
+    "constituency_name": "ব্রাহ্মনবাড়িয়া- ৩",
+    "constituency_area": "(ক) ব্রাহ্মণবাড়িয়া সদর উপজেলা এবং (খ) বিজয়নগর উপজেলার নিম্নলিখিথ ইউনিয়নসমূহ: (১) ইছাপুর (২) চম্পকনগর (৩) পত্তন (৪) দক্ষিণ সিংগারবিল (৫) বিষ্ণুপুর (৬) চর ইসলামপুর (৭) পাহাড়পুর (৮) হরষপুর ইউনিয়ন",
+    "candidate_name": "মোঃ খালেদ হোসেন মাহবুব"
+  },
+  {
+    "id": "২৪৬.",
+    "division": "চট্টগ্রাম",
+    "district": "ব্রাহ্মণবাড়িয়া",
+    "constituency_name": "ব্রাহ্মনবাড়িয়া - ৪",
+    "constituency_area": "(ক) আখাউড়া উপজেলা এবং (খ) কসবা উপজেলা",
+    "candidate_name": "মুশফিকুর রহমান"
+  },
+  {
+    "id": "২৪৭.",
+    "division": "চট্টগ্রাম",
+    "district": "ব্রাহ্মণবাড়িয়া",
+    "constituency_name": "ব্রাহ্মনবাড়িয়া - ৫",
+    "constituency_area": "নবীনগর উপজেলা",
+    "candidate_name": "মোঃ আব্দুল মান্নান"
+  },
+  {
+    "id": "২৪৮.",
+    "division": "চট্টগ্রাম",
+    "district": "ব্রাহ্মণবাড়িয়া",
+    "constituency_name": "ব্রাহ্মনবাড়িয়া ৬",
+    "constituency_area": "বাঞ্ছারামপুর উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "২৪৯.",
+    "division": "চট্টগ্রাম",
+    "district": "কুমিল্লা",
+    "constituency_name": "কুমিল্লা - ১",
+    "constituency_area": "(ক) দাউদকান্দি উপজেলা এবং (খ) মেঘনা উপজেলা",
+    "candidate_name": "ডঃ খন্দকার মোশাররফ হোসেন"
+  },
+  {
+    "id": "২৫০.",
+    "division": "চট্টগ্রাম",
+    "district": "কুমিল্লা",
+    "constituency_name": "কুমিল্লা - ২",
+    "constituency_area": "(ক) হোমনা উপজেলা এবং (খ) তিতাস উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "২৫১.",
+    "division": "চট্টগ্রাম",
+    "district": "কুমিল্লা",
+    "constituency_name": "কুমিল্লা - ৩",
+    "constituency_area": "মুরাদনগর উপজেলা",
+    "candidate_name": "কাজী শাহ মোফাজ্জল হোসাইন কায়কোবাদ"
+  },
+  {
+    "id": "২৫২.",
+    "division": "চট্টগ্রাম",
+    "district": "কুমিল্লা",
+    "constituency_name": "কুমিল্লা - ৪",
+    "constituency_area": "দেবীদ্বার উপজেলা",
+    "candidate_name": "মঞ্জুরুল আহসান মুন্সী"
+  },
+  {
+    "id": "২৫৩.",
+    "division": "চট্টগ্রাম",
+    "district": "কুমিল্লা",
+    "constituency_name": "কুমিল্লা - ৫",
+    "constituency_area": "(ক) ব্রাহ্মণপাড়া উপজেলা এবং (খ) বুড়িচং উপজেলা",
+    "candidate_name": "মোঃ জসিম উদ্দিন"
+  },
+  {
+    "id": "২৫৪.",
+    "division": "চট্টগ্রাম",
+    "district": "কুমিল্লা",
+    "constituency_name": "কুমিল্লা - ৬",
+    "constituency_area": "(ক) কুমিল্লা আদর্শ সদর উপজেলা (খ) কুমিল্লা সিটি কর্পোরেশন (গ) কুমিল্লা সেনানিবাস এলাকা এবং (ঘ) কুমিল্লা সদর দক্ষিণ উপজেলা",
+    "candidate_name": "মোঃ মনিরুল হক চৌধুরী"
+  },
+  {
+    "id": "২৫৫.",
+    "division": "চট্টগ্রাম",
+    "district": "কুমিল্লা",
+    "constituency_name": "কুমিল্লা - ৭",
+    "constituency_area": "চান্দিনা উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "২৫৬.",
+    "division": "চট্টগ্রাম",
+    "district": "কুমিল্লা",
+    "constituency_name": "কুমিল্লা - ৮",
+    "constituency_area": "বরুড়া উপজেলা",
+    "candidate_name": "জাকারিয়া তাহের"
+  },
+  {
+    "id": "২৫৭.",
+    "division": "চট্টগ্রাম",
+    "district": "কুমিল্লা",
+    "constituency_name": "কুমিল্লা - ৯",
+    "constituency_area": "(ক) মনোহরগঞ্জ উপজেলা এবং (খ) লাকসাম উপজেলা",
+    "candidate_name": "মোঃ আবুল কালাম"
+  },
+  {
+    "id": "২৫৮.",
+    "division": "চট্টগ্রাম",
+    "district": "কুমিল্লা",
+    "constituency_name": "কুমিল্লা - ১০",
+    "constituency_area": "(ক) নাংগলকোট উপজেলা এবং (খ) লালমাই উপজেলা",
+    "candidate_name": "মোঃ আব্দুল গফুর ভূঁইয়া"
+  },
+  {
+    "id": "২৫৯.",
+    "division": "চট্টগ্রাম",
+    "district": "কুমিল্লা",
+    "constituency_name": "কুমিল্লা-১১",
+    "constituency_area": "চৌদ্দগ্রাম উপজেলা",
+    "candidate_name": "মোঃ কামরুল হুদা"
+  },
+  {
+    "id": "২৬০.",
+    "division": "চট্টগ্রাম",
+    "district": "চাঁদপুর",
+    "constituency_name": "চাঁদপুর - ১",
+    "constituency_area": "কচুয়া উপজেলা",
+    "candidate_name": "আ ন ম এহসানুল হক মিলন"
+  },
+  {
+    "id": "২৬১.",
+    "division": "চট্টগ্রাম",
+    "district": "চাঁদপুর",
+    "constituency_name": "চাঁদপুর - ২",
+    "constituency_area": "(ক) মতলব উত্তর উপজেলা এবং (খ) মতলব দক্ষিণ উপজেলা",
+    "candidate_name": "মোঃ জালাল উদ্দিন"
+  },
+  {
+    "id": "২৬২.",
+    "division": "চট্টগ্রাম",
+    "district": "চাঁদপুর",
+    "constituency_name": "চাঁদপুর - ৩",
+    "constituency_area": "(ক) চাঁদপুর সদর উপজেলা এবং (খ) হাইমচর উপজেলা",
+    "candidate_name": "শেখ ফরিদ আহমেদ"
+  },
+  {
+    "id": "২৬৩.",
+    "division": "চট্টগ্রাম",
+    "district": "চাঁদপুর",
+    "constituency_name": "চাঁদপুর - ৪",
+    "constituency_area": "ফরিদগঞ্জ উপজেলা",
+    "candidate_name": "মোঃ হারুনুর রশিদ"
+  },
+  {
+    "id": "২৬৪.",
+    "division": "চট্টগ্রাম",
+    "district": "চাঁদপুর",
+    "constituency_name": "চাঁদপুর - ৫",
+    "constituency_area": "(ক) হাজীগঞ্জ উপজেলা এবং (খ) শাহরাস্তি উপজেলা",
+    "candidate_name": "মোঃ মমিনুল হক"
+  },
+  {
+    "id": "২৬৫.",
+    "division": "চট্টগ্রাম",
+    "district": "ফেনী",
+    "constituency_name": "ফেনী-১",
+    "constituency_area": "(ক) পরশুরাম উপজেলা (খ) ছাগলনাইয়া উপজেলা এবং (গ) ফুলগাজী উপজেলা",
+    "candidate_name": "বেগম খালেদা জিয়া"
+  },
+  {
+    "id": "২৬৬.",
+    "division": "চট্টগ্রাম",
+    "district": "ফেনী",
+    "constituency_name": "ফেনী-২",
+    "constituency_area": "ফেনী সদর উপজেলা",
+    "candidate_name": "জয়নাল আবেদীন"
+  },
+  {
+    "id": "২৬৭.",
+    "division": "চট্টগ্রাম",
+    "district": "ফেনী",
+    "constituency_name": "ফেনী-৩",
+    "constituency_area": "(ক) সোনাগাজী উপজেলা এবং (খ) দাগনভূঞা উপজেলা",
+    "candidate_name": "আব্দুল আওয়াল মিন্টু"
+  },
+  {
+    "id": "২৬৮.",
+    "division": "চট্টগ্রাম",
+    "district": "নোয়াখালী",
+    "constituency_name": "নোয়াখালী-১",
+    "constituency_area": "(ক) চাটখিল উপজেলা এবং (খ) সোনাইমুড়ী উপজেলার নিম্নলিখিত ইউনিয়নসমূহ (১) জয়গা (২) নদনা (৩) চাষীরহাট (৪) বজরা (৫) সোনাপুর (৬) দেওটি ও (৭) আমিশাপাড়া ইউনিয়ন এবং (গ) সোনাইমুড়ী পৌরসভা",
+    "candidate_name": "এ এম মাহবুব উদ্দিন"
+  },
+  {
+    "id": "২৬৯.",
+    "division": "চট্টগ্রাম",
+    "district": "নোয়াখালী",
+    "constituency_name": "নোয়াখালী-২",
+    "constituency_area": "(ক) সেনবাগ উপজেলা এবং (খ) সোনাইমুড়ী উপজেলার নিম্নলিখিত ইউনিয়নসমূহ (১) বারগাঁও (২) নাটেশ্বর ও (৩) অম্বর নগর ইনিয়ন",
+    "candidate_name": "জয়নাল আবেদীন ফারুক"
+  },
+  {
+    "id": "২৭০.",
+    "division": "চট্টগ্রাম",
+    "district": "নোয়াখালী",
+    "constituency_name": "নোয়াখালী-৩",
+    "constituency_area": "বেগমগঞ্জ উপজেলা",
+    "candidate_name": "মোঃ বরকত উল্লাহ বুলু"
+  },
+  {
+    "id": "২৭১.",
+    "division": "চট্টগ্রাম",
+    "district": "নোয়াখালী",
+    "constituUency_name": "নোয়াখালী-৪",
+    "constituency_area": "(ক) সুবর্ণচর উপজেলা এবং (খ) নোয়াখালী সদর উপজেলার নিম্নলিখিত ইউনিয়নসমূহ: (১) চরমটুয়া (২) দাদপুর (৩) নোয়ান্নই (৪) কাদিরহানিফ (৫) বিনোদপুর (৬) নোয়াখালী (৭) ধর্মপুর (৮) এওজবালিয়া (৯) কালাদরাগ (১০) পূর্ব চরমটুয়া ও (১১) আন্ডারচর ইউনিয়ন (গ) নোয়াখালী পৌরসভা",
+    "candidate_name": "মোঃ শাহজাহান"
+  },
+  {
+    "id": "২৭২.",
+    "division": "চট্টগ্রাম",
+    "district": "নোয়াখালী",
+    "constituency_name": "নোয়াখালী-৫",
+    "constituency_area": "(ক) কবিরহাট উপজেলা (খ) কোম্পানীগঞ্জ উপজেলা এবং (গ) নোয়াখালী সদর উপজেলার নিম্নলিখিত ইউনিয়নসমূহ: (১) আশ্বদিয়া ও (২) নেয়াজপুর ইউনিয়ন",
+    "candidate_name": "মোহাম্মদ ফখরুল ইসলাম"
+  },
+  {
+    "id": "২৭৩.",
+    "division": "চট্টগ্রাম",
+    "district": "নোয়াখালী",
+    "constituency_name": "নোয়াখালী-৬",
+    "constituency_area": "হাতিয়া উপজেলা",
+    "candidate_name": "মোহাম্মদ মাহবুবের রহমান শামীম"
+  },
+  {
+    "id": "২৭৪.",
+    "division": "চট্টগ্রাম",
+    "district": "লক্ষ্মীপুর",
+    "constituency_name": "লক্ষীপুর -১",
+    "constituency_area": "রামগঞ্জ উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "২৭৫.",
+    "division": "চট্টগ্রাম",
+    "district": "লক্ষ্মীপুর",
+    "constituency_name": "লক্ষীপুর-২",
+    "constituency_area": "(ক) রায়পুর উপজেলা এবং (খ) লক্ষ্মীপুর সদর উপজেলা নিম্নলিখিত ইউনিয়নসমূহ: (১) উত্তর হামছাদী (২) দক্ষিণ হামছাদী (৩) দালাল বাজার (৪) চর রুহিতা (৫) পার্বতী নগর (৬) শাকচর (৭) টুমচর (৮) চর রমনীমোহন ও (৯) বশিকপুর ইউনিয়ন",
+    "candidate_name": "মোঃ আবুল খায়ের ভূঁইয়া"
+  },
+  {
+    "id": "২৭৬.",
+    "division": "চট্টগ্রাম",
+    "district": "লক্ষ্মীপুর",
+    "constituency_name": "লক্ষীপুর-৩",
+    "constituency_area": "(ক) লক্ষ্মীপুর সদর উপজেলা নিম্নলিখিত ইউনিয়নসমূহ: (১) ভাঙ্গা খাঁ (২) দত্তপাড়া (৩) উত্তর জয়পুর (৪) চন্দ্রগঞ্জ (৫) হাজির পাড়া (৬) চর শাহী (৭) দিঘলী (৮) মান্দারী (৯) লাহারকান্দি (১০) ভবানীগঞ্জ (১১) কুশাখালী ও (১২) তেওয়ারীগঞ্জ ইউনিয়ন এবং (খ) লক্ষ্মীপুর সদর পৌরসভা",
+    "candidate_name": "মোঃ শহীদ উদ্দিন চৌধুরী এ্যানি"
+  },
+  {
+    "id": "২৭৭.",
+    "division": "চট্টগ্রাম",
+    "district": "লক্ষ্মীপুর",
+    "constituency_name": "লক্ষীপুর-৪",
+    "constituency_area": "(ক) রামগতি উপজেলা এবং (খ) কমলনগর উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "২৭৮.",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "constituency_name": "চট্টগ্রাম-১",
+    "constituency_area": "মীরশ্বরাই উপজেলা",
+    "candidate_name": "নুরুল আমিন (চেয়ারম্যান)"
+  },
+  {
+    "id": "২৭৯.",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "constituency_name": "চট্টগ্রাম-২",
+    "constituency_area": "ফটিকছড়ি উপজেলা",
+    "candidate_name": "সরওয়ার আলমগীর"
+  },
+  {
+    "id": "২৮০.",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "constituency_name": "চট্টগ্রাম-৩",
+    "constituency_area": "সন্দ্বীপ উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "২৮১.",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "constituency_name": "চট্টগ্রাম-৪",
+    "constituency_area": "(ক) সীতাকুন্ড উপজেলা এবং (খ) চট্টগ্রাম সিটি কর্পোরেশনের ওয়ার্ড নম্বর-৯ ও ১০",
+    "candidate_name": "কাজী সালাউদ্দিন"
+  },
+  {
+    "id": "২৮২.",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "constituency_name": "চট্টগ্রাম-৫",
+    "constituency_area": "(ক) হাটহাজারী উপজেলা এবং (খ) চট্টগ্রাম সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ০১ ও ০২",
+    "candidate_name": "মীর মোহাম্মদ হেলাল উদ্দিন"
+  },
+  {
+    "id": "২৮৩.",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "constituency_name": "চট্টগ্রাম-৬",
+    "constituency_area": "রাউজান উপজেলা",
+    "candidate_name": "হুম্মম কাদের চৌধুরী"
+  },
+  {
+    "id": "২৮৪.",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "constituency_name": "চট্টগ্রাম-৭",
+    "constituency_area": "রাঙ্গুনিয়া উপজেলা",
+    "candidate_name": "এরশাদ উল্লাহ"
+  },
+  {
+    "id": "২৮৫.",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "constituency_name": "চট্টগ্রাম-৮",
+    "constituency_area": "(ক) বোয়ালখালী উপজেলা এবং (খ) চট্টগ্রাম সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ০৩,০৪,০৫,০৬ ৩০৭",
+    "candidate_name": ""
+  },
+  {
+    "id": "২৮৬.",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "constituency_name": "চট্টগ্রাম-৯",
+    "constituency_area": "চট্টগ্রাম সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ১৫,১৬,১৭,১৮,১৯,২০, ২১, ২২,২৩,৩১,৩২,৩৩,৩৪ ও ৩৫",
+    "candidate_name": ""
+  },
+  {
+    "id": "২৮৭.",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "constituency_name": "চট্টগ্রাম-১০",
+    "constituency_area": "চট্টগ্রাম সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ০৮,১১,১২,১৩,১৪,২৪, ২৫ ও ২৬",
+    "candidate_name": "আমীর খসরু মাহমুদ চৌধুরী"
+  },
+  {
+    "id": "২৮৮.",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "constituency_name": "চট্টগ্রাম-১১",
+    "constituency_area": "চট্টগ্রাম সিটি কর্পোরেশনের ওয়ার্ড নম্বর- ২৭,২৮,২৯,৩০,৩৬,৩৭, ৩৮,৩৯,৪০ ও ৪১",
+    "candidate_name": ""
+  },
+  {
+    "id": "২৮৯.",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "constituency_name": "চট্টগ্রাম-১২",
+    "constituency_area": "পটিয়া উপজেলা",
+    "candidate_name": "মোহাম্মদ এনামুল হক"
+  },
+  {
+    "id": "২৯০.",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "constituency_name": "চট্টগ্রাম-১৩",
+    "constituency_area": "(ক) আনোয়ারা উপজেলা এবং (খ) কর্ণফুলী উপজেলা",
+    "candidate_name": "সরওয়ার জামাল নিজাম"
+  },
+  {
+    "id": "২৯১.",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "constituency_name": "চট্টগ্রাম-১৪",
+    "constituency_area": "(ক) চন্দনাইশ উপজেলা এবং (খ) সাতকানিয়া উপজেলার নিম্নলিখিত ইউনিয়নসমূহ: (ক) কেগুচিয়া (২) কালিয়াইশ (৩) বাজালিয়া (৪) ধর্মপুর (৫) পুরানগড় ও (৬) খাগরিয়া ইউনিয়ন",
+    "candidate_name": ""
+  },
+  {
+    "id": "২৯২.",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "constituency_name": "চট্টগ্রাম-১৫",
+    "constituency_area": "(ক) লোহাগড়া উপজেলা এবং (খ) নিম্নলিখিত ইউনিয়নসমূহ ব্যতীত সাতকানিয়া উপজেলা: (ক) কেগুচিয়া (২) কালিয়াইশ (৩) বাজালিয়া (৪) ধর্মপুর (৫) পুরানগড় ও (৬) খাগরিয়া ইউনিয়ন",
+    "candidate_name": ""
+  },
+  {
+    "id": "২৯৩.",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "constituency_name": "চট্টগ্রাম-১৬",
+    "constituency_area": "বাঁশখালী উপজেলা",
+    "candidate_name": "মিশকাতুল ইসলাম চৌধুরী পাপ্পা"
+  },
+  {
+    "id": "২৯৪.",
+    "division": "চট্টগ্রাম",
+    "district": "কক্সবাজার",
+    "constituency_name": "কক্সবাজার-১",
+    "constituency_area": "(ক) চকরিয়া উপজেলা এবং (খ) পেকুয়া উপজেলা",
+    "candidate_name": "সালাহউদ্দিন আহমেদ"
+  },
+  {
+    "id": "২৯৫.",
+    "division": "চট্টগ্রাম",
+    "district": "কক্সবাজার",
+    "constituency_name": "কক্সবাজার-২",
+    "constituency_area": "(ক) কুতুবদিয়া উপজেলা এবং (খ) মহেশখালী উপজেলা",
+    "candidate_name": ""
+  },
+  {
+    "id": "২৯৬.",
+    "division": "চট্টগ্রাম",
+    "district": "কক্সবাজার",
+    "constituency_name": "কক্সবাজার-৩",
+    "constituency_area": "(ক) কক্সবাজার সদর উপজেলা (খ) ঈদগাঁও উপজেলা এবং (গ) রামু উপজেলা",
+    "candidate_name": "লুৎফুর রহমান কাজল"
+  },
+  {
+    "id": "২৯৭.",
+    "division": "চট্টগ্রাম",
+    "district": "কক্সবাজার",
+    "constituency_name": "কক্সবাজার-৪",
+    "constituency_area": "(ক) উখিয়া উপজেলা এবং (খ) টেকনাফ উপজেলা",
+    "candidate_name": "শাহজাহান চৌধুরী"
+  },
+  {
+    "id": "২৯৮.",
+    "division": "চট্টগ্রাম",
+    "district": "খাগড়াছড়ি",
+    "constituency_name": "খাগড়াছড়ি",
+    "constituency_area": "খাগড়াছড়ি পার্বত্য জেলা",
+    "candidate_name": "আবদুল ওয়াদুদ ভূঁইয়া"
+  },
+  {
+    "id": "২৯৯.",
+    "division": "চট্টগ্রাম",
+    "district": "রাঙ্গামাটি",
+    "constituency_name": "রাংগামাটি",
+    "constituency_area": "রাংগামাটি পার্বত্য জেলা",
+    "candidate_name": "দীপেন দেওয়ান"
+  },
+  {
+    "id": "৩০০.",
+    "division": "চট্টগ্রাম",
+    "district": "বান্দরবান",
+    "constituency_name": "বান্দরবান",
+    "constituency_area": "বান্দরবান পার্বত্য জেলা",
+    "candidate_name": "সাচিং প্রু"
+  }
+]
